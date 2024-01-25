@@ -1,0 +1,759 @@
+{
+    "CSE-1":  
+        {
+            "CD": "Mr. Jhalak Hota",
+            "CC": "Ms. Sricheta Parui",
+            "SPM": "Mr. Harish Kumar Patnaik",
+            "T&T(L)": "Dr. Soumya Ranjan Nayak",
+            "CC(L)": "Dr. Hitesh Mahapatra",
+            "TTL": "Dr. Soumya Ranjan Nayak"
+        }
+     ,
+    "CSE-2":  
+        {
+            "CD": "Mrs. Lipika Mohanty",
+            "CC": "Dr. Ambika Prasad Mishra",
+            "SPM": "Mr. Arup Sarkar",
+            "T&T(L)": "Mr. Sourav Kumar Giri",
+            "CC(L)": "Dr. Ambika Prasad Mishra",
+            "TTL": "Mr. Sourav Kumar Giri"
+        }
+     ,
+    "CSE-3":  
+        {
+            "CD": "Dr. Jasaswi Prasad Mohanty",
+            "CC": "Dr. Jay Sarraf",
+            "SPM": "Ms. Krutika Verma",
+            "T&T(L)": "Dr. Soumya Ranjan Mishra",
+            "CC(L)": "Dr. Jay Sarraf",
+            "TTL": "Dr. Soumya Ranjan Mishra"
+        }
+     ,
+    "CSE-4":  
+        {
+            "CD": "Dr. Roshni Pradhan",
+            "CC": "Ms. Shilpa Das",
+            "SPM": "Dr. Raghunath Dey",
+            "T&T(L)": "Mr. Pradeep Kandula",
+            "CC(L)": "Ms. Shilpa Das",
+            "TTL": "Mr. Pradeep Kandula"
+        }
+     ,
+    "CSE-5":  
+        {
+            "CD": "Dr. Ajaya Kumar Parida",
+            "CC": "Dr. Hitesh Mahapatra",
+            "SPM": "Dr. Suchismita Rout",
+            "T&T(L)": "Mr. Ajit Kumar Pasayat",
+            "CC(L)": "Ms. Sricheta Parui",
+            "TTL": "Mr. Ajit Kumar Pasayat"
+        }
+     ,
+    "CSE-6":  
+        {
+            "CD": "Dr. Ganga Bishnu Mund",
+            "CC": "Mrs. Subhashree Darshana",
+            "SPM": "Dr. Sushruta Mishra",
+            "T&T(L)": "Dr. Soumya Ranjan Nayak",
+            "CC(L)": "Mrs. Subhashree Darshana",
+            "TTL": "Dr. Soumya Ranjan Nayak"
+        }
+     ,
+    "CSE-7":  
+        {
+            "CD": "Mrs. Bindu Agarwalla",
+            "CC": "Mr. Kamalesh Karmakar",
+            "SPM": "Dr. Saurabh Jha",
+            "T&T(L)": "Mr. Sovan Kumar Sahoo",
+            "CC(L)": "Mr. Kamalesh Karmakar",
+            "TTL": "Mr. Sovan Kumar Sahoo"
+        }
+     ,
+    "CSE-8":  
+        {
+            "CD": "Mr. Ajay Anand",
+            "CC": "Dr. Suneeta Mohanty",
+            "SPM": "Dr. Debachudamani Prusti",
+            "T&T(L)": "Dr. Saikat Chakraborty",
+            "CC(L)": "Dr. Suneeta Mohanty",
+            "TTL": "Dr. Saikat Chakraborty"
+        }
+     ,
+    "CSE-9":  
+        {
+            "CD": "Mr. Nayan Kumar S. Behera",
+            "CC": "Ms. Aradhana Behura",
+            "SPM": "Dr. Suchismita Rout",
+            "T&T(L)": "Dr. Santwana Sagnika",
+            "CC(L)": "Ms. Aradhana Behura",
+            "TTL": "Dr. Santwana Sagnika"
+        }
+     ,
+    "CSE-10":  
+        {
+            "CD": "Mr. Prabhu Prasad Dev",
+            "CC": "Dr. Suchismita Rout",
+            "SPM": "Dr. Jayanta Mondal",
+            "T&T(L)": "Mr. Ajit Kumar Pasayat",
+            "CC(L)": "Dr. Suchismita Rout",
+            "TTL": "Mr. Ajit Kumar Pasayat"
+        }
+     ,
+    "CSE-11":  
+        {
+            "CD": "Mr. Amiya Kumar Dash",
+            "CC": "Mr. Manas Ranjan Biswal",
+            "SPM": "Dr. Manjusha Pandey",
+            "T&T(L)": "Dr. Himansu Das",
+            "CC(L)": "Mr. Manas Ranjan Biswal",
+            "TTL": "Dr. Himansu Das"
+        }
+     ,
+    "CSE-12":  
+        {
+            "CD": "Mr. Lalit Kumar Vashishtha",
+            "CC": "Dr. Santosh Kumar Swain",
+            "SPM": "Dr. Junali Jasmine Jena",
+            "T&T(L)": "Mr. Ajay Anand",
+            "CC(L)": "Dr. Santosh Kumar Swain",
+            "TTL": "Mr. Ajay Anand"
+        }
+     ,
+    "CSE-13":  
+        {
+            "CD": "Dr. Anjan Bandyopadhyay",
+            "CC": "Dr. Prachet Bhuyan",
+            "SPM": "Ms. Swagatika Sahoo",
+            "T&T(L)": "Dr. Subhadip Pramanik",
+            "CC(L)": "Ms. Sricheta Parui",
+            "TTL": "Dr. Subhadip Pramanik"
+        }
+     ,
+    "CSE-14":  
+        {
+            "CD": "Mr. Tanik Saikh",
+            "CC": "Mrs. Ronali Padhy",
+            "SPM": "Mr. Kunal Anand",
+            "T&T(L)": "Mr. Sovan Kumar Sahoo",
+            "CC(L)": "Mrs. Ronali Padhy",
+            "TTL": "Mr. Sovan Kumar Sahoo"
+        }
+     ,
+    "CSE-15":  
+        {
+            "CD": "Dr. Sarita Tripathy",
+            "CC": "Dr. Subhranshu Sekhar Tripathy",
+            "SPM": "Dr. Jagannath Singh",
+            "T&T(L)": "Dr. Dayal Kumar Behera",
+            "CC(L)": "Dr. Subhranshu Sekhar Tripathy",
+            "TTL": "Dr. Dayal Kumar Behera"
+        }
+     ,
+    "CSE-16":  
+        {
+            "CD": "Mr. Tanik Saikh",
+            "CC": "Dr. Niranjan Kumar Ray",
+            "SPM": "Ms. Priyanka Roy",
+            "T&T(L)": "Dr. Mainak Biswas",
+            "CC(L)": "Dr. Niranjan Kumar Ray",
+            "TTL": "Dr. Mainak Biswas"
+        }
+     ,
+    "CSE-17":  
+        {
+            "CD": "Dr. Jasaswi Prasad Mohanty",
+            "CC": "Dr. Subhranshu Sekhar Tripathy",
+            "SPM": "Dr. Sushruta Mishra",
+            "T&T(L)": "Mr. Abhishek Raj",
+            "CC(L)": "Dr. Subhranshu Sekhar Tripathy",
+            "TTL": "Mr. Abhishek Raj"
+        }
+     ,
+    "CSE-18":  
+        {
+            "CD": "Dr. Abhishek Ray",
+            "CC": "Dr. Roshni Pradhan",
+            "SPM": "Dr. Jaydeep Das",
+            "T&T(L)": "Dr. Partha Sarathi Paul",
+            "CC(L)": "Dr. Subhranshu Sekhar Tripathy",
+            "TTL": "Dr. Partha Sarathi Paul"
+        }
+     ,
+    "CSE-19":  
+        {
+            "CD": "Mr. Nayan Kumar S. Behera",
+            "CC": "Dr. Manjusha Pandey",
+            "SPM": "Dr. Saurabh Bilgaiyan",
+            "T&T(L)": "Mr. Lalit Kumar Vashishtha",
+            "CC(L)": "Dr. Manjusha Pandey",
+            "TTL": "Mr. Lalit Kumar Vashishtha"
+        }
+     ,
+    "CSE-20":  
+        {
+            "CD": "Mr. Jhalak Hota",
+            "CC": "Dr. Dipti Dash",
+            "SPM": "Dr. Anjan Bandyopadhyay",
+            "T&T(L)": "Dr. Himansu Das",
+            "CC(L)": "Dr. Dipti Dash",
+            "TTL": "Dr. Himansu Das"
+        }
+     ,
+    "CSE-21":  
+        {
+            "CD": "Dr. Bhaswati Sahoo",
+            "CC": "Dr. Jaydeep Das",
+            "SPM": "Dr. Kumar Devadutta",
+            "T&T(L)": "Dr. Junali Jasmine Jena",
+            "CC(L)": "Dr. Jaydeep Das",
+            "TTL": "Dr. Junali Jasmine Jena"
+        }
+     ,
+    "CSE-22":  
+        {
+            "CD": "Dr. Ajaya Kumar Parida",
+            "CC": "Dr. Nachiketa Tarasia",
+            "SPM": "Ms. Priyanka Roy",
+            "T&T(L)": "Ms. Aradhana Behura",
+            "CC(L)": "Dr. Nachiketa Tarasia",
+            "TTL": "Ms. Aradhana Behura"
+        }
+     ,
+    "CSE-23":  
+        {
+            "CD": "Mr. Amiya Kumar Dash",
+            "CC": "Dr. Hitesh Mahapatra",
+            "SPM": "Mrs. Lipika Mohanty",
+            "T&T(L)": "Mr. Abhishek Raj",
+            "CC(L)": "Dr. Hitesh Mahapatra",
+            "TTL": "Mr. Abhishek Raj"
+        }
+     ,
+    "CSE-24":  
+        {
+            "CD": "Dr. Ganga Bishnu Mund",
+            "CC": "Ms. Aradhana Behura",
+            "SPM": "Dr. Jagannath Singh",
+            "T&T(L)": "Ms. Shilpa Das",
+            "CC(L)": "Ms. Aradhana Behura",
+            "TTL": "Ms. Shilpa Das"
+        }
+     ,
+    "CSE-25":  
+        {
+            "CD": "Mrs. Bindu Agarwalla",
+            "CC": "Dr. Ashish Singh",
+            "SPM": "Dr. Prachet Bhuyan",
+            "T&T(L)": "Mr. Ajay Anand",
+            "CC(L)": "Dr. Ashish Singh",
+            "TTL": "Mr. Ajay Anand"
+        }
+     ,
+    "CSE-26":  
+        {
+            "CD": "Dr. Abhishek Ray",
+            "CC": "Dr. Dipti Dash",
+            "SPM": "Mrs. Krishna Chakravarty",
+            "T&T(L)": "Mr. Prabhu Prasad Dev",
+            "CC(L)": "Dr. Dipti Dash",
+            "TTL": "Mr. Prabhu Prasad Dev"
+        }
+     ,
+    "CSE-27":  
+        {
+            "CD": "Mr. Lalit Kumar Vashishtha",
+            "CC": "Dr. Jay Sarraf",
+            "SPM": "Dr. Anjan Bandyopadhyay",
+            "T&T(L)": "Dr. Mohit Ranjan Panda",
+            "CC(L)": "Mr. Kamalesh Karmakar",
+            "TTL": "Dr. Mohit Ranjan Panda"
+        }
+     ,
+    "CSE-28":  
+        {
+            "CD": "Dr. Anjan Bandyopadhyay",
+            "CC": "Dr. Ambika Prasad Mishra",
+            "SPM": "Ms. Chandani Kumari",
+            "T&T(L)": "Dr. Mainak Biswas",
+            "CC(L)": "Dr. Ambika Prasad Mishra",
+            "TTL": "Dr. Mainak Biswas"
+        }
+     ,
+    "CSE-29":  
+        {
+            "CD": "Mrs. Lipika Dewangan",
+            "CC": "Dr. Santosh Kumar Swain",
+            "SPM": "Dr. Saurabh Jha",
+            "T&T(L)": "Mr. Deependra Singh",
+            "CC(L)": "Dr. Santosh Kumar Swain",
+            "TTL": "Mr. Deependra Singh"
+        }
+     ,
+    
+        "CSE-30":  
+            {
+                "CD": "Dr. Abhishek Ray",
+                "CC": "Dr. Jaydeep Das",
+                "SPM": "Dr. Junali Jasmine Jena",
+                "T&T(L)": "Dr. Suchismita Das",
+                "CC(L)": "Dr. Jaydeep Das",
+                "TTL": "Dr. Suchismita Das"
+            }
+         ,
+        "CSE-31":  
+            {
+                "CD": "Mr. Prabhu Prasad Dev",
+                "CC": "Dr. Ashish Singh",
+                "SPM": "Dr. Leena Das",
+                "T&T(L)": "Dr. Dayal Kumar Behera",
+                "CC(L)": "Dr. Ashish Singh",
+                "TTL": "Dr. Dayal Kumar Behera"
+            }
+         ,
+        "CSE-32":  
+            {
+                "CD": "Mr. Ajay Anand",
+                "CC": "Mr. Sovan Kumar Sahoo",
+                "SPM": "Mr. Manas Ranjan Biswal",
+                "T&T(L)": "Dr. Sarita Tripathy",
+                "CC(L)": "Mr. Sovan Kumar Sahoo",
+                "TTL": "Dr. Sarita Tripathy"
+            }
+         ,
+        "CSE-33":  
+            {
+                "CD": "Dr. Bhaswati Sahoo",
+                "CC": "Dr. Roshni Pradhan",
+                "SPM": "Mr. Kunal Anand",
+                "T&T(L)": "Dr. Satarupa Mohanty",
+                "CC(L)": "Dr. Suchismita Rout",
+                "TTL": "Dr. Satarupa Mohanty"
+            }
+         ,
+        "CSE-34":  
+            {
+                "CD": "Mrs. Lipika Mohanty",
+                "CC": "Dr. Nachiketa Tarasia",
+                "SPM": "Dr. Jayanta Mondal",
+                "T&T(L)": "Dr. Soumya Ranjan Mishra",
+                "CC(L)": "Dr. Nachiketa Tarasia",
+                "TTL": "Dr. Soumya Ranjan Mishra"
+            }
+         ,
+        "CSE-35":  
+            {
+                "CD": "Dr. Roshni Pradhan",
+                "CC": "Mrs. Ronali Padhy",
+                "SPM": "Dr. Saurabh Bilgaiyan",
+                "T&T(L)": "Dr. Saikat Chakraborty",
+                "CC(L)": "Mrs. Ronali Padhy",
+                "TTL": "Dr. Saikat Chakraborty"
+            }
+         ,
+        "CSE-36":  
+            {
+                "CD": "Dr. Ganga Bishnu Mund",
+                "CC": "Mr. Manas Ranjan Biswal",
+                "SPM": "Dr. Leena Das",
+                "T&T(L)": "Dr. Mohit Ranjan Panda",
+                "CC(L)": "Mr. Manas Ranjan Biswal",
+                "TTL": "Dr. Mohit Ranjan Panda"
+            }
+         ,
+        "CSE-37":  
+            {
+                "CD": "Mr. Lalit Kumar Vashishtha",
+                "CC": "Ms. Sricheta Parui",
+                "SPM": "Dr. Prachet Bhuyan",
+                "T&T(L)": "Mrs. Jayanti Dansana",
+                "CC(L)": "Ms. Sricheta Parui",
+                "TTL": "Mrs. Jayanti Dansana"
+            }
+         ,
+        "CSE-38":  
+            {
+                "CD": "Mr. Prabhu Prasad Dev",
+                "CC": "Dr. Suneeta Mohanty",
+                "SPM": "Dr. Kumar Devadutta",
+                "T&T(L)": "Mrs. Lipika Dewangan",
+                "CC(L)": "Dr. Suneeta Mohanty",
+                "TTL": "Mrs. Lipika Dewangan"
+            }
+         ,
+        "CSE-39":  
+            {
+                "CD": "Mr. Jhalak Hota",
+                "CC": "Ms. Shilpa Das",
+                "SPM": "Mr. Arup Sarkar",
+                "T&T(L)": "Dr. Jasaswi Prasad Mohanty",
+                "CC(L)": "Ms. Shilpa Das",
+                "TTL": "Dr. Jasaswi Prasad Mohanty"
+            },
+            "IT-1":  
+            {
+                "DA": "Mr. Rohit Kumar Tiwari",
+                "AI": "Dr. Madhabananda Das",
+                "CC": "Mrs. Jayanti Dansana",
+                "T&T(L)": "Mrs. Lipika Dewangan",
+                "DA(L)": "Dr. Bhabani Shankar Prasad Mishra",
+                "TTL": "Mrs. Lipika Dewangan"
+            }
+         ,
+        "IT-2":  
+            {
+                "DA": "Dr. Siddharth Swarup Rautaray",
+                "AI": "Dr. Debanjan Pathak",
+                "CC": "Dr. Bhaswati Sahoo",
+                "T&T(L)": "Mr. Lalit Kumar Vashishtha",
+                "DA(L)": "Dr. Siddharth Swarup Rautaray",
+                "TTL": "Mr. Lalit Kumar Vashishtha"
+            }
+         ,
+        "IT-3":  
+            {
+                "DA": "Dr. Abhaya Kumar Sahoo",
+                "AI": "Dr. Madhabananda Das",
+                "CC": "Mr. Sovan Kumar Sahoo",
+                "T&T(L)": "Dr. Partha Sarathi Paul",
+                "DA(L)": "Mr. Pradeep Kandula",
+                "TTL": "Dr. Partha Sarathi Paul"
+            }
+         ,
+        "IT-4":  
+            {
+                "DA": "Dr. Siddharth Swarup Rautaray",
+                "AI": "Dr. Rajdeep Chatterjee",
+                "CC": "Mrs. Bindu Agarwalla",
+                "T&T(L)": "Dr. Partha Pratim Sarangi",
+                "DA(L)": "Dr. Siddharth Swarup Rautaray",
+                "TTL": "Dr. Partha Pratim Sarangi"
+            }
+         ,
+        "CSCE-1":  
+            {
+                "DA": "Mrs. Subhashree Darshana",
+                "AI": "Prof. A.N. Ghazali",
+                "CC": "Dr. Suneeta Mohanty",
+                "T&T(L)": "Prof. Om Prakash Acharya",
+                "DA(L)": "Mr. Debashis Hati",
+                "TTL": "Mr. Debashis Hati",
+                "Column8": "Prof. Om Prakash Acharya"
+            }
+         ,
+        "CSCE-2":  
+            {
+                "DA": "Mr. Kamalesh Karmakar",
+                "AI": "Prof. A.N. Ghazali",
+                "CC": "Dr. Mahendra Kumar Gourisaria",
+                "T&T(L)": "Prof. S.S. Singh",
+                "DA(L)": "Dr. Suchismita Das",
+                "TTL": "Dr. Suchismita Das",
+                "Column8": "Prof. S.S. Singh"
+            }
+         ,
+        "CSSE-1":  
+            {
+                "DA": "Dr. Manjusha Pandey",
+                "AI": "Prof. B. V. V. S. Kumar",
+                "CC": "Dr. Arghya Kundu",
+                "T&T(L)": "Dr. Sarita Tripathy",
+                "DA(L)": "Dr. Manjusha Pandey",
+                "TTL": "Dr. Sarita Tripathy"
+            }
+         ,
+        "CSSE-2":  
+            {
+                "DA": "Dr. Niranjan Kumar Ray",
+                "AI": "Prof. B. V. V. S. Kumar",
+                "CC": "Dr. Sourajit Behera",
+                "T&T(L)": "Mr. Vijay Kumar Meena",
+                "DA(L)": "Dr. Niranjan Kumar Ray",
+                "TTL": "Mr. Vijay Kumar Meena"
+            },
+            "ML_CS-1": {
+                "ML(DE)": "Mr. Sankalp Nayak"
+            },
+            "ML_CS-2": {
+                "ML(DE)": "Prof. T. Kar"
+            },
+            "ML_CS-3": {
+                "ML(DE)": "Mr. Sohail Khan"
+            },
+            "ML_CS-4": {
+                "ML(DE)": "Dr. Ramesh Kumar Thakur"
+            },
+            "ML_CS-5": {
+                "ML(DE)": "Dr. Minakhi Rout"
+            },
+            "ML_CS-6": {
+                "ML(DE)": "Dr. Kumar Surjeet Chaudhury"
+            },
+            "ML_CS-7": {
+                "ML(DE)": "Prof. P. K. Samanta"
+            },
+            "ML_CS-8": {
+                "ML(DE)": "Dr. Satyananda Champati Rai"
+            },
+            "ML_CS-9": {
+                "ML(DE)": "Prof. Wriddhi Bhowmick"
+            },
+            "ML_CS-10": {
+                "ML(DE)": "Prof. A. Gorai"
+            },
+            "ML_CS-11": {
+                "ML(DE)": "Prof. T. Kar"
+            },
+            "ML_CS-12": {
+                "ML(DE)": "Mr. A Ranjith"
+            },
+            "ML_CS-13": {
+                "ML(DE)": "Mr. Chandra Shekhar"
+            },
+            "ML_CS-14": {
+                "ML(DE)": "Prof. A. Gorai"
+            },
+            "ML_CS-15": {
+                "ML(DE)": "Mr. Sunil Kumar Gouda"
+            },
+            "ML_CS-16": {
+                "ML(DE)": "Prof. Parveen Malik"
+            },
+            "ML_CS-17": {
+                "ML(DE)": "Mr. Nayan Kumar S. Behera"
+            },
+            "ML_CS-18": {
+                "ML(DE)": "Dr. Jayeeta Chakraborty"
+            },
+            "ML_CS-19": {
+                "ML(DE)": "Dr. Satyananda Champati Rai"
+            },
+            "ML_CS-20": {
+                "ML(DE)": "Dr. Partha Pratim Sarangi"
+            },
+            "ML_CS-21": {
+                "ML(DE)": "Dr. Rinku Datta Rakshit"
+            },
+            "ML_CS-22": {
+                "ML(DE)": "Dr. Babita Panda"
+            },
+            "ML_CS-23": {
+                "ML(DE)": "Dr. Pampa Sinha"
+            },
+            "ML_CS-24": {
+                "ML(DE)": "Prof. Subodh Kumar Mohanty"
+            },
+            "ML_CS-25": {
+                "ML(DE)": "Dr. Shubhasri Kundu"
+            },
+            "ML_CS-26": {
+                "ML(DE)": "Dr. Subrat Kumar Barik"
+            },
+            "ML_CS-27": {
+                "ML(DE)": "Dr. Padarbinda Samal"
+            },
+            "IOT_CS-1": {
+                "IOT(DE)": "Mr. R. N. Ramakant Parida"
+            },
+            "IOT_CS-2": {
+                "IOT(DE)": "Dr. Debachudamani Prusti"
+            },
+            "IOT_CS-3": {
+                "IOT(DE)": "Mrs. Ronali Padhy"
+            },
+            "IOT_CS-4": {
+                "IOT(DE)": "Prof. T. M. Behera"
+            },
+            "IOT_CS-5": {
+                "IOT(DE)": "Dr. Hitesh Mahapatra"
+            },
+            "IOT_CS-6": {
+                "IOT(DE)": "Dr. Banchhanidhi Dash"
+            },
+            "IOT_CS-7": {
+                "IOT(DE)": "Prof. Akshaya Kumar Pati"
+            },
+            "IOT_CS-8": {
+                "IOT(DE)": "Dr. Hitesh Mahapatra"
+            },
+            "IOT_CS-9": {
+                "IOT(DE)": "Prof. A. Samui"
+            },
+            "IOT_CS-10": {
+                "IOT(DE)": "Prof. T. M. Behera"
+            },
+            "IOT_CS-11": {
+                "IOT(DE)": "Mr. Prasenjit Maiti"
+            },
+            "IOT_CS-12": {
+                "IOT(DE)": "Prof. Deepak Kumar Rout"
+            },
+            "IOT_CS-13": {
+                "IOT(DE)": "Prof. Swagat Das"
+            },
+            "NLP_CS-1": {
+                "NLP(DE)": "Mrs. Lipika Dewangan"
+            },
+            "NLP_CS-2": {
+                "NLP(DE)": "Dr. Mainak Bandyopadhyay"
+            },
+            "NLP_CS-3": {
+                "NLP(DE)": "Dr. Murari Mandal"
+            },
+            "NLP_CS-4": {
+                "NLP(DE)": "Mrs. Lipika Dewangan"
+            },
+            "NLP_CS-5": {
+                "NLP(DE)": "Dr. Mainak Bandyopadhyay"
+            },
+            "NLP_CS-6": {
+                "NLP(DE)": "Dr. Ambika Prasad Mishra"
+            },
+            "DA_CS-1": {
+                "DA(DE)": "Dr. Satarupa Mohanty"
+            },
+            "DA_CS-2": {
+                "DA(DE)": "Dr. Pratyusa Mukherjee"
+            },
+            "DA_CS-3": {
+                "DA(DE)": "Dr. Subhadip Pramanik"
+            },
+            "DA_CS-4": {
+                "DA(DE)": "Dr. Abhaya Kumar Sahoo"
+            },
+            "DA_CS-5": {
+                "DA(DE)": "Mr. Abinas Panda"
+            },
+            "DA_CS-6": {
+                "DA(DE)": "Dr. Sarita Tripathy"
+            },
+            "DA_CS-7": {
+                "DA(DE)": "Mrs. Naliniprava Behera"
+            },
+            "DA_CS-8": {
+                "DA(DE)": "Dr. Nibedan Panda"
+            },
+            "DA_CS-9": {
+                "DA(DE)": "Mr. Pragma Kar"
+            },
+            "DA_CS-10": {
+                "DA(DE)": "Dr. Santosh Kumar Baliarsingh"
+            },
+            "DA_CS-11": {
+                "DA(DE)": "Mr. Deependra Singh"
+            },
+            "DA_CS-12": {
+                "DA(DE)": "Dr. Santwana Sagnika"
+            },
+            "DA_CS-13": {
+                "DA(DE)": "Mrs. Jayanti Dansana"
+            },
+            "DA_CS-14": {
+                "DA(DE)": "Mr. Vishal Meena"
+            },
+            "DA_CS-15": {
+                "DA(DE)": "Dr. Subhranshu Sekhar Tripathy"
+            },
+            "DA_CS-16": {
+                "DA(DE)": "Mr. Ajay Anand"
+            },
+            "DA_CS-17": {
+                "DA(DE)": "Mrs. Meghana G Raj"
+            },
+            "DA_CS-18": {
+                "DA(DE)": "Ms. Sricheta Parui"
+            },
+            "DA_CS-19": {
+                "DA(DE)": "Dr. Santosh Kumar Baliarsingh"
+            },
+            "DA_CS-20": {
+                "DA(DE)": "Mr. Pragma Kar"
+            },
+            "DA_CS-21": {
+                "DA(DE)": "Mr. Deependra Singh"
+            },
+            "DA_CS-22": {
+                "DA(DE)": "Dr. Subhadip Pramanik"
+            },
+            "DA_CS-23": {
+                "DA(DE)": "Dr. Mukesh Kumar"
+            },
+            "DA_CS-24": {
+                "DA(DE)": "Mr. Jhalak Hota"
+            },
+            "DA_CS-25": {
+                "DA(DE)": "Dr. Rajat Kumar Behera"
+            },
+            "DA_CS-26": {
+                "DA(DE)": "Dr. Soumya Ranjan Nayak"
+            },
+            "DA_CS-27": {
+                "DA(DE)": "Dr. Saikat Chakraborty"
+            },
+            "DA_CS-28": {
+                "DA(DE)": "Mr. Rabi Shaw"
+            },
+            "DA_CS-29": {
+                "DA(DE)": "Dr. Satarupa Mohanty"
+            },
+            "DA_CS-30": {
+                "DA(DE)": "Mr. Rabi Shaw"
+            },
+            "DA_CS-31": {
+                "DA(DE)": "Dr. Aleena Swetapadma"
+            },
+            "DA_CS-32": {
+                "DA(DE)": "Dr. Sarita Tripathy"
+            },
+            "DA_CS-33": {
+                "DA(DE)": "Mrs. Jayanti Dansana"
+            },
+            "DA_CS-34": {
+                "DA(DE)": "Dr. Santwana Sagnika"
+            },
+            "ML_IT-1": {
+                "ML(DE)": "Prof. M. K. Beuria"
+            },
+            "ML_IT-2": {
+                "ML(DE)": "Prof. D. Mukherjee"
+            },
+            "ML_IT-3": {
+                "ML(DE)": "Prof. Wriddhi Bhowmick"
+            },
+            "ML_IT-4": {
+                "ML(DE)": "Prof. Vimal Ku Shrivastava"
+            },
+            "MC_IT-1": {
+                "MC(DE)": "Dr. Monideepa Roy"
+            },
+            "MC_IT-2": {
+                "MC(DE)": "Dr. Pinaki Sankar Chatterjee"
+            },
+            "MC_IT-3": {
+                "MC(DE)": "Dr. Niranjan Kumar Ray"
+            },
+            "OT_IT-1": {
+                "OT(DE)": "Dr. Priyabrata Mohapatra"
+            },
+            "ML_CE-1": {
+                "ML(DE)": "Mr. Amiya Kumar Dash"
+            },
+            "IOT_CE-1": {
+                "IOT(DE)": "Dr. Debachudamani Prusti"
+            },
+            "WSN_CE-1": {
+                "WSN(DE)": "Prof. M. Behera"
+            },
+            "DA_SE-1": {
+                "DA(DE)": "Mr. Rohit Kumar Tiwari"
+            },
+            "DA_SE-2": {
+                "DA(DE)": "Dr. Pratyusa Mukherjee"
+            },
+            "DMDW_SE-1": {
+                "DMDW(DE)": "Dr. Amiya Ranjan Panda"
+            },
+            "DMDW_SE-2": {
+                "DMDW(DE)": "Mr. Sampriti Soor"
+            }
+         
+}
