@@ -320,9 +320,9 @@
       "cabin": "NA"
     },
     "Mr.RabiShaw": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
+      "email": "rabi.shawfcs@kiit.ac.in",
+      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/07/RabiShaw.jpg",
+      "cabin": "Faculty Block-201 (Campus-14C)"
     },
     "Dr.MinakhiRout": {
       "email": "NA",
@@ -330,8 +330,8 @@
       "cabin": "NA"
     },
     "Dr.MainakBandyopadhyay": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+      "email": "mainak.bandyopadhyayfcs@kiit.ac.in",
+      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Mainak-Bandyopathyay.jpg",
       "cabin": "NA"
     },
     "Mr.ARanjith": {
@@ -1281,7 +1281,7 @@
       "cabin": "Faculty Chamber-09(Campus-15B)"
     },
     "NOTICE": {
-      "notice": "Holiday Notice",
-      "desc": "KIIT University will remain closed on Friday, January 26, 2024, in observance of Republic Day. Wishing you all a proud and joyous Republic Day celebration!"
+      "notice": "",
+      "desc": ""
     }
   }
