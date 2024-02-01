@@ -1,1287 +1,1286 @@
 {
-    "Mr.AbinasPanda": {
-      "email": "abinas.pandafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Abinas-Panda.jpg",
-      "cabin": "F-220(Campus- 15A)"
-    },
-    "Dr.MukeshKumar": {
-      "email": "mukesh.kumarfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Mukesh-Kumar.jpg",
-      "cabin": "F-212(Campus- 15A)"
-    },
-    "Prof.M.K.Beuria": {
-      "email": "manoj.beuriafet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/MANOJ-KUMAR-BEURIA-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Dr.AmiyaRanjanPanda": {
-      "email": "amiya.pandafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Dr.-Amiya-Ranjan-Panda-Amiya-Panda.jpg",
-      "cabin": "Faculty Chamber-07(Campus-15B)"
-    },
-    "Mrs.JayantiDansana": {
-      "email": "jayantifcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Jayanti-Dansana.jpg",
-      "cabin": "F-205(Campus-15A)"
-    },
-    "Mr.SohailKhan": {
-      "email": "sohail.khanfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/12/sohail-khan.png",
-      "cabin": "NA"
-    },
-    "Prof.SubodhKumarMohanty": {
-      "email": "subodh.mohantyfel@kiit.ac.in",
-      "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/Subodh-Mohanty-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Mrs.LipikaDewangan": {
-      "email": "lipika.dewanganfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Lipika-Dewangan.jpg",
-      "cabin": "Faculty Block-101 (Campus-14C)"
-    },
-    "Prof.T.Kar": {
-      "email": "tkarfet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/TEJASWINI-KAR-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Mrs.RonaliPadhy": {
-      "email": "ronali.padhyfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Ronali-Padhy.jpg",
-      "cabin": "F-07(Campus-15A)"
-    },
-    "Ms.SrichetaParui": {
-      "email": "sricheta.paruifcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2024/01/Sricheta-Parui.jpg",
-      "cabin": "NA"
-    },
-    "Prof.D.Mukherjee": {
-      "email": "deepmukherjeefet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2018/12/DEEPMUKHERJEE-deep-mukherjee-400x500.jpg",
-      "cabin": "NA"
-    },
-    "Dr.PampaSinha": {
-      "email": "pampa.sinhafel@kiit.ac.in",
-      "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/Pampa-Sinha-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Prof.AkshayaKumarPati": {
-      "email": "akshaya.patifet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2021/01/Akshaya-Kumar-Pati-400x444.jpg",
-      "cabin": "NA"
-    },
-    "Dr.SantoshKumarBaliarsingh": {
-      "email": "santos.baliarsinghfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Santos-Kumar-Baliarsingh.jpg",
-      "cabin": "Faculty Block-301 (Campus-14C)"
-    },
-    "Dr.RajatKumarBehera": {
-      "email": "rajatkumar.beherafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Rajat-Kumar-Behera.jpg",
-      "cabin": "Faculty Block-101 (Campus-14C)"
-    },
-    "Dr.BanchhanidhiDash": {
-      "email": "banchhanidhi.dashfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Banchhanidhi-Dash.jpg",
-      "cabin": "F-117(Campus-15A)"
-    },
-    "Dr.NibedanPanda": {
-      "email": "nibedan.pandafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/10/Nibedan-Panda.jpg",
-      "cabin": "F-209(Campus-15A)"
-    },
-    "Dr.SoumyaRanjanNayak": {
-      "email": "soumyaranjan.nayakfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Soumya-Ranjan-Nayak.jpg",
-      "cabin": "Faculty Block-402 (Campus-14C)"
-    },
-    "Mr.AmiyaKumarDash": {
-      "email": "amiya.dasfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Amiya-Dash.jpg",
-      "cabin": "Faculty Chamber-04(Campus-15B)"
-    },
-    "Dr.BabitaPanda": {
-      "email": "babitapfel@kiit.ac.in",
-      "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/babita-panda-400x460.jpg",
-      "cabin": "NA"
-    },
-    "Mr.RohitKumarTiwari": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "F-208(Campus-15A)"
-    },
-    "Dr.SatyanandaChampatiRai": {
-      "email": "satya.raifcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/08/satyananda.png",
-      "cabin": "NA"
-    },
-    "Dr.PratyusaMukherjee": {
-      "email": "pratyusa.mukherjeefcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2021/01/Pratyusa-Mukherjee.jpg",
-      "cabin": "Faculty Block-102 (Campus-14C)"
-    },
-    "Mr.DeependraSingh": {
-      "email": "deependra.singhfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/07/Deependra-Singh.jpg",
-      "cabin": "NA"
-    },
-    "Dr.NiranjanKumarRay": {
-      "email": "niranjan_rayfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Niranjan-Ray.jpg",
-      "cabin": "Faculty Chamber-01(Campus-15B)"
-    },
-    "Mr.PragmaKar": {
-      "email": "NA",
-      "profileurl": "https://media.licdn.com/dms/image/C5103AQEDjDUyufu01A/profile-displayphoto-shrink_200_200/0/1574656187119?e=2147483647&v=beta&t=Lc01NnPczqJ83dHqe0eteaEZZf44VLFHLiY6TbN9NP0",
-      "cabin": "NA"
-    },
-    "Mr.SankalpNayak": {
-      "email": "sankalp.nayakfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Sankalp-Nayak.jpg",
-      "cabin": "F-103(Campus-15A)"
-    },
-    "Mr.NayanKumarS.Behera": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "F-210(Campus-15A)"
-    },
-    "Mrs.NalinipravaBehera": {
-      "email": "npbeherafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Nalini-Prara-behera.jpg",
-      "cabin": "Faculty Chamber-02(Campus-15B)"
-    },
-    "Dr.SaikatChakraborty": {
-      "email": "saikat.chakrabortyfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/01/Saikat-Chakraborty.jpg",
-      "cabin": "Faculty Block-201 (Campus-14C)"
-    },
-    "Dr.RinkuDattaRakshit": {
-      "email": "rinku.rakshitfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Rinku-Datta-Rakshit.jpg",
-      "cabin": "NA"
-    },
-    "Mr.JhalakHota": {
-      "email": "jhalak.hotafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Jhalak-Hota.jpg",
-      "cabin": "Faculty Block-201 (Campus-14C)"
-    },
-    "Dr.RameshKumarThakur": {
-      "email": "ramesh.thakurfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/10/Ramesh.jpg",
-      "cabin": "NA"
-    },
-    "Dr.SatarupaMohanty": {
-      "email": "satarupafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Satarupa-Mohanty-1.jpg",
-      "cabin": "F-219(Campus-15A)"
-    },
-    "Prof.VimalKuShrivastava": {
-      "email": "vimal.shrivastavafet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2018/12/Dr.-Vimal-Shrivastava-Vimal-Kumar-Shrivastava-400x501.jpg",
-      "cabin": "NA"
-    },
-    "Prof.M.Behera": {
-      "email": "mbeherafet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/MANJUSHA-BEHERA-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Prof.SwagatDas": {
-      "email": "swagat.dasfel@kiit.ac.in",
-      "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/Swagat-Das-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Dr.SubhranshuSekharTripathy": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.JayeetaChakraborty": {
-      "email": "jayeeta.chakrabortyfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/07/JayeetaChakraborty.jpg",
-      "cabin": "Faculty Block-102 (Campus-14C)"
-    },
-    "Dr.AmbikaPrasadMishra": {
-      "email": "ambikaprasad.mishrafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/05/Ambikaprasad-mishra.jpg",
-      "cabin": "F-113(Campus-15A)"
-    },
-    "Prof.ParveenMalik": {
-      "email": "parveen.malikfet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Parveen-Malik-1-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Mrs.MeghanaGRaj": {
-      "email": "meghana.rajfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/meghna.jpeg",
-      "cabin": "Faculty Chamber-09(Campus-15B)"
-    },
-    "Dr.PriyabrataMohapatra": {
-      "email": "priyabrata.mohapatrafme@kiit.ac.in",
-      "profileurl": "https://mechanical.kiit.ac.in/wp-content/uploads/2020/08/Priya-e1596702779156.jpg",
-      "cabin": "NA"
-    },
-    "Dr.SubratKumarBarik": {
-      "email": "skbarikfel@kiit.ac.in",
-      "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/sk-barik-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Mr.R.N.RamakantParida": {
-      "email": "rparidafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Ramakanta-Parida.jpg",
-      "cabin": "F-111(Campus-15A)"
-    },
-    "Prof.T.M.Behera": {
-      "email": "truptifet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Trutpi-Mayee-Behera-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Dr.DebachudamaniPrusti": {
-      "email": "debachudamani.prustifcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2024/01/kiit-Debachudamani-Prusti.jpg",
-      "cabin": "NA"
-    },
-    "Dr.HiteshMahapatra": {
-      "email": "hiteshmahapatra.fcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/07/hitesh.jpeg",
-      "cabin": "Faculty Block-104 (Campus-14C)"
-    },
-    "Prof.A.Samui": {
-      "email": "asamuifet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2018/12/20161009_090523-Anupam-Samui-400x500.jpg",
-      "cabin": "NA"
-    },
-    "Prof.P.K.Samanta": {
-      "email": "pravin.samantafet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Pravin-Kumar-Samanta-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Dr.AbhayaKumarSahoo": {
-      "email": "abhaya.sahoofcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/AbhayakumarSahoo.jpg",
-      "cabin": "Faculty Chamber-11(Campus-15B)"
-    },
-    "Dr.MonideepaRoy": {
-      "email": "monideepafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/monideepa-roy.jpg",
-      "cabin": "Faculty Block-101 (Campus-14C)"
-    },
-    "Prof.DeepakKumarRout": {
-      "email": "deepak.routfet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2018/11/Deepak-Kumar-Rout-400x320.jpg",
-      "cabin": "NA"
-    },
-    "Dr.SantwanaSagnika": {
-      "email": "santwana.sagnikafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Santwana-Sagnika-santwana-sagnika.jpg",
-      "cabin": "F-225(Campus- 15A)"
-    },
-    "Mr.AjayAnand": {
-      "email": "ajay.anandfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Ajay-Anan.jpg",
-      "cabin": "F-103(Campus-15A)"
-    },
-    "Dr.AleenaSwetapadma": {
-      "email": "aleena.swetapadmafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2018/08/Aleena-Swetapadma.jpg",
-      "cabin": "F-216(Campus- 15A)"
-    },
-    "Dr.PadarbindaSamal": {
-      "email": "padarbinda.samalfel@kiit.ac.in",
-      "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/Padarbinda-Samal-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Dr.ShubhasriKundu": {
-      "email": "shubhasri.kundufel@kiit.ac.in",
-      "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/Shubhasri-Kundu-400x400.png",
-      "cabin": "NA"
-    },
-    "Mr.SampritiSoor": {
-      "email": "sampriti.soorfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Sampriti-Soor.jpg",
-      "cabin": "Faculty Block-402 (Campus-14C)"
-    },
-    "Mr.SunilKumarGouda": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Prof.WriddhiBhowmick": {
-      "email": "wriddhi.bhowmikfet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/WRIDDHI-BHOWMIK-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Mr.VishalMeena": {
-      "email": "vishal.meenafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/12/Vishal-Meena.jpg",
-      "cabin": "NA"
-    },
-    "Mr.PrasenjitMaiti": {
-      "email": "prasenjit.maitifcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/02/Prasenjit-Maiti.jpg",
-      "cabin": "Faculty Block-104 (Campus-14C)"
-    },
-    "Mr.RabiShaw": {
-      "email": "rabi.shawfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/07/RabiShaw.jpg",
-      "cabin": "Faculty Block-201 (Campus-14C)"
-    },
-    "Dr.MinakhiRout": {
-      "email": "minakhi.routfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/20180318_114601-Minakshi-rout.jpg",
-      "cabin": "Faculty Chamber-05(Campus-15B)"
-    },
-    "Dr.MainakBandyopadhyay": {
-      "email": "mainak.bandyopadhyayfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Mainak-Bandyopathyay.jpg",
-      "cabin": "NA"
-    },
-    "Mr.ARanjith": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "Faculty Block-402 (Campus-14C)"
-    },
-    "Prof.A.Gorai": {
-      "email": "abhik.goraifet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/ABHIK-GORAI-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Dr.KumarSurjeetChaudhury": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.MurariMandal": {
-      "email": "murari.mandalfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/10/murari_blue-Murari-Mandal.jpg",
-      "cabin": "Faculty Block-101 (Campus-14C)"
-    },
-    "Mr.ChandraShekhar": {
-      "email": "chandra.shekharfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/05/chandra-final-chandra-shekhar.jpg",
-      "cabin": "NA"
-    },
-    "Dr.PinakiSankarChatterjee": {
-      "email": "pinakifcs@kiit.ac.ins",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/pinaki-chatterjee.jpg",
-      "cabin": "F-211(Campus-15A)"
-    },
-    "Dr.ArjunKumarPaul": {
-      "email": "apaulfma@kiit.ac.in",
-      "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2020/05/Arjun-Paul.jpg",
-      "cabin": "NA"
-    },
-    "Dr.PrasantKumarPattnaik": {
-      "email": "patnaikprasantfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/20200618_172649-01-scaled.jpeg",
-      "cabin": "F-117(Campus-15A)"
-    },
-    "Dr.JoydebPal": {
-      "email": "joydeb.palfma@kiit.ac.in",
-      "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2020/05/Joydeb-Pal-1.jpg",
-      "cabin": "NA"
-    },
-    "Mr.SaswataRoy": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.NamitaPanda": {
-      "email": "npandafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Namita-Panda.jpg",
-      "cabin": "F-215(Campus- 15A)"
-    },
-    "Dr.PrasantaKu.Mohanty": {
-      "email": "pkmohantyfma@kiit.ac.in",
-      "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2018/10/prasanta-mohanty.jpg",
-      "cabin": "NA"
-    },
-    "Prof.S.K.Mohapatra": {
-      "email": "sushanta.mohapatrafet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2018/04/sk-400x512.jpg",
-      "cabin": "NA"
-    },
-    "Dr.ParthaSarathiPaul": {
-      "email": "parthasarathi.paulfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/02/Partha-Sarathi-Paul.jpg",
-      "cabin": "Faculty Block-101 (Campus-14C)"
-    },
-    "Dr.AmlanaPanda": {
-      "email": "amlana.pandafme@kiit.ac.in",
-      "profileurl": "https://mechanical.kiit.ac.in/wp-content/uploads/2019/02/amlanpanda-kiit-400x512.jpg",
-      "cabin": "NA"
-    },
-    "Dr.AmulyaRatnaSwain": {
-      "email": "amulyafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Amulya-Ratna-Swain-amulya-swain.jpg",
-      "cabin": "Dean Room-2(Campus-14C)"
-    },
-    "Dr.SubarnaBhattacharya": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.JayantaMondal": {
-      "email": "jayanta.mondalfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/09/Jayanta-Mondal.jpg",
-      "cabin": "NA"
-    },
-    "Prof.BikashKumarBehera": {
-      "email": "bikash.beherafet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Bikash-Kumar-Behera-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Mr.DebashisHati": {
-      "email": "dhatifcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Debashis-Hati.jpg",
-      "cabin": "Faculty Block-101 (Campus-14C)"
-    },
-    "Dr.SarbeswarMohanty": {
-      "email": "smohantyfhu@kiit.ac.in",
-      "profileurl": "https://ksoh.kiit.ac.in/wp-content/uploads/2019/03/Sarbeswar-Mohanty.jpg",
-      "cabin": "NA"
-    },
-    "Dr.HrushikeshaMohanty": {
-      "email": "NA",
-      "profileurl": "https://old.kiit.ac.in/about/Professor-Hrushikesha-Mohanty-vice-chancellor-kiit.png",
-      "cabin": "NA"
-    },
-    "Prof.NitenKumarPanda": {
-      "email": "NA",
-      "profileurl": "https://i1.rgstatic.net/ii/profile.image/999002988363779-1615192281739_Q512/Niten-Panda.jpg",
-      "cabin": "NA"
-    },
-    "Dr.AsifUddinKhan": {
-      "email": "asif.khanfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Asif-Uddin-Khan.jpg",
-      "cabin": "Faculty Block-402 (Campus-14C)"
-    },
-    "Prof.GanarajP.S.": {
-      "email": "ganaraj.psfet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Ganaraj-P-S-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Dr.HrudayaKumarTripathy": {
-      "email": "hktripathyfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Hrudaya-Kumar-Tripathy.jpg",
-      "cabin": "Faculty Chamber-03(Campus-15B)"
-    },
-    "Mr.N.BirajaIsac": {
-      "email": "nbiraja.isacfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/biraja-N-Biraja-Isac.jpg",
-      "cabin": "F-117(Campus-15A)"
-    },
-    "Dr.DayalKumarBehera": {
-      "email": "dayal.beherafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Dayal-Kumar-Behera.jpg",
-      "cabin": "Faculty Block-402 (Campus-14C)"
-    },
-    "Prof.SatishKumarGannamaneni": {
-      "email": "gskfet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/SATISH-KUMAR-GANNAMANENI-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Prof.SushreeS.Panda": {
-      "email": "NA",
-      "profileurl": "https://i1.rgstatic.net/ii/profile.image/11431281183888331-1693106209700_Q128/Sushree-Panda-2.jpg",
-      "cabin": "NA"
-    },
-    "Mr.SujoyDatta": {
-      "email": "sdattafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/sujoy_datta-Sujoy-Datta.jpg",
-      "cabin": "Examination Hall(Campus-14C)"
-    },
-    "Dr.SriparnaRoyGhatak": {
-      "email": "sghatakfel@kiit.ac.in",
-      "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/Sriparna-Ghatak-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Prof.NaziaT.Imran": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Prof.S.Mishra": {
-      "email": "subhasree.mishrafet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Subhashree-Mishra-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Dr.SumanSarkar": {
-      "email": "suman.sarkarfma@kiit.ac.in",
-      "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2023/12/Suman.jpg",
-      "cabin": "NA"
-    },
-    "Dr.AjayaKumarParida": {
-      "email": "ajaya.paridafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Ajaya-Kumar-Parida.jpg",
-      "cabin": "F-227(Campus- 15A)"
-    },
-    "Dr.ManasRanjanLenka": {
-      "email": "manaslenkafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/prasant-patnaik.jpg",
-      "cabin": "Faculty Block-101 (Campus-14C)"
-    },
-    "Dr.SrikantaBehera": {
-      "email": "srikanta.beherafma@kiit.ac.in",
-      "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2023/12/Srikanta.jpg",
-      "cabin": "NA"
-    },
-    "Dr.LaxmipriyaNayak": {
-      "email": "lnayakfma@kiit.ac.in",
-      "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2018/10/laxmi.jpg",
-      "cabin": "NA"
-    },
-    "Dr.ArunKumarGupta": {
-      "email": "arun.guptafma@kiit.ac.in",
-      "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2018/10/gupta.jpg",
-      "cabin": "NA"
-    },
-    "Prof.P.Dutta": {
-      "email": "pduttafet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Pradipta-Dutta-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Dr.KumarDevadutta": {
-      "email": "kdevduttafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2021/07/Kumar-Devdutta.jpg",
-      "cabin": "F-112(Campus-15A)"
-    },
-    "Prof.S.K.Badi": {
-      "email": "skbadifet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Susanta-Kumar-Badii-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Dr.ManasRanjanMohapatra": {
-      "email": "manas.mohapatrafma@kiit.ac.in",
-      "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2022/05/manas.jpg",
-      "cabin": "NA"
-    },
-    "Mr.JyotiprakashMishra": {
-      "email": "jyotiprakash.mishrafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2021/01/Jyotiprakash-Mishra.jpg",
-      "cabin": "F-110(Campus-15A)"
-    },
-    "Mr.ArupSarkar": {
-      "email": "arup.sarkarfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Arup-Sarkar.jpg",
-      "cabin": "Faculty Chamber-04(Campus-15B)"
-    },
-    "Dr.MitaliRoutaray": {
-      "email": "mitali.routarayfma@kiit.ac.in",
-      "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2018/10/Mitali-Routaray-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Ms.MandakiniPriyadarshaniBehera": {
-      "email": "mandakini.beherafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/10/Mandakini.jpg",
-      "cabin": "Faculty Block-402 (Campus-14C)"
-    },
-    "Dr.RaghunathDey": {
-      "email": "raghunath.deyfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Raghunath-Dey.jpg",
-      "cabin": "Faculty Block-402 (Campus-14C)"
-    },
-    "Prof.RubyMishra": {
-      "email": "rubymishrafme@kiit.ac.in",
-      "profileurl": "https://mechanical.kiit.ac.in/wp-content/uploads/2020/01/Ruby-Mishra-1.jpg",
-      "cabin": "NA"
-    },
-    "Prof.S.Padhy": {
-      "email": "srinibas.padhyfet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Srinibasa-Padhy-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Dr.DebdulalGhosh": {
-      "email": "debdulal.ghoshfma@kiit.ac.in",
-      "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2023/12/Debdulal.jpg",
-      "cabin": "NA"
-    },
-    "Dr.KalyaniMohanta": {
-      "email": "kalyani.mohantafme@kiit.ac.in",
-      "profileurl": "https://mechanical.kiit.ac.in/wp-content/uploads/2021/07/Photo_Kalyani-Mohanta.jpg",
-      "cabin": "NA"
-    },
-    "Dr.KartikeswarMahalik": {
-      "email": "kartikeswar.mahalikfma@kiit.ac.in",
-      "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2023/12/Kartikeswar.jpg",
-      "cabin": "NA"
-    },
-    "Dr.SpandanGuha": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.GopendraVikramSingh": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.DiptiDash": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Prof.K.B.Ray": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SudeshnaDattaChaudhuri": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Ms.MamitaDash": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Ms.ChandaniKumari": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Ms.SaritaMishra": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.BhabaniShankarPrasadMishra": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.VishalPradhan": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.AvinashChaudhary": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.AlivaraniMohapatra": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SuvasisNayak": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.ArghyaKundu": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.AlokKumarJagadev": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SureshChandraSatapathy": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SuvenduBarik": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Ms.IpsitaPaul": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.VijayKumarMeena": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.MadhusudanBera": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.AjayKumarJena": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.GananathBhuyan": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.UtkalKeshariDutta": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.ManoranjanSahoo": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Prof.KumarBiswal": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SourajitBehera": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Prof.S.Ramavath": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SamareshMishra": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.HimansuDas": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.TanikSaikh": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.DebanjanPathak": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.AnandaMeher": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SuchismitaDas": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.ArupAbhinnaAcharya": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SantoshKumarPani": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.M.M.Acharya": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.JunaliJasmineJena": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Prof.P.Biswal": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.AbhijitSutradhar": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.SujoyMadhabRoy": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.ManojKumarMishra": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.KrishnanduHazra": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.TanmoyMaitra": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.BiswajitSahoo": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SushrutaMishra": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.ShantaChakrabarty": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.HarishKumarPatnaik": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SrikumarAcharya": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Ms.BenazirNeha": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SudiptaKumarGhosh": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.AkshayaKumarPanda": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SaurabhBilgaiyan": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.ArijitPatra": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Prof.SunilKr.Mishra": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.BasantaKumarRana": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Ms.KrutikaVerma": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SaurabhJha": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.ChittaranjanPradhan": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.AnanyaMitra": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.BanishreeMisra": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Prof.Shruti": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.ArpitaGoswami": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SanjayaKumarPanda": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.BijoyDas": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.PradeepKumarParhi": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.RakeshKumarRai": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.MohitRanjanPanda": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.PradeepKandula": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Prof.AnilKumarBehera": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.VIkasHassija": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SmrutirekhaMohanty": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Prof.SwatiSwayamsiddha": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.AmaleshKumarManna": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Prof.J.R.Panda": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.PradeepKumarMishra": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.MainakBiswas": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.AshishSingh": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SubhasisDash": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Prof.A.Bakshi": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SwayamBMishra": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.JagannathSingh": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SebaMohanty": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Prof.PramodKumarDas": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.ManasRanjanNayak": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.SouravKumarGiri": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.LeenaDas": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.NibeditaAdhikary": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.AnilKumarSwain": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.BapujiSahoo": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.RanjeetaPatel": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Ms.SwagatikaSahoo": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.RajdeepChatterjee": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.AnujaKumarAcharya": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.AbhishekRaj": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.PradeepKumarMallick": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.KunalAnand": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Prof.RachitaPanda": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mrs.KrishnaChakravarty": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.SoumyaRanjanMishra": {
-      "email": "soumyaranjan.mishrafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/07/SoumyaRanjan.jpg",
-      "cabin": "Faculty Block-104 (Campus-14C)"
-    },
-    "Dr.SuneetaMohanty": {
-      "email": "smohantyfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Suneeta-Mohanty.jpg",
-      "cabin": "F-08(Campus-15A)"
-    },
-    "Dr.JasaswiPrasadMohanty": {
-      "email": "jasaswi.mohantyfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Jasaswi-Prasad-Mohanty.jpg",
-      "cabin": "NA"
-    },
-    "Dr.GangaBishnuMund": {
-      "email": "mund@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/gbmund-GB-Mund.jpeg",
-      "cabin": "F-114(Campus-15A)"
-    },
-    "Ms.ShilpaDas": {
-      "email": "shilpa.dasfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/07/ShilpaDas.jpg",
-      "cabin": "Faculty Block-102 (Campus-14C)"
-    },
-    "Mr.AjitKumarPasayat": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Ms.AradhanaBehura": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.RoshniPradhan": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.ManasRanjanBiswal":{
-      "email": "manas.biswalfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Manas-Ranjan-Biswal.jpg",
-      "cabin": "NA"
-
-    },
-    "Dr.ParthaPratimSarangi": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.JaydeepDas": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mr.PrabhuPrasadDev": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.PrachetBhuyan": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Ms.PriyankaRoy": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.AbhishekRay": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Dr.BhaswatiSahoo": {
-      "email": "NA",
-      "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
-      "cabin": "NA"
-    },
-    "Mrs.LipikaMohanty": {
-      "email": "lipika.mohantyfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Lipika-Mohanty-scaled.jpg",
-      "cabin": "Faculty Chamber-08(Campus-15B)"
-    },
-    "Mrs.SubhashreeDarshana": {
-      "email": "subhashree.darshanafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/GAT-Subhashree-Darshana.jpg",
-      "cabin": "F-102(Campus-15A)"
-    },
-    "Dr.ManjushaPandey": {
-      "email": "manjushafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/manjusha.jpg",
-      "cabin": "Faculty Block-101 (Campus-14C)"
-    },
-    "Dr.SuchismitaRout": {
-      "email": "suchismita.routfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/10/SR_photo-Dr-Suchismita-Rout.png",
-      "cabin": "Faculty Block-101 (Campus-14C)"
-    },
-    "Dr.MadhabanandaDas": {
-      "email": "mndas_prof@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Madhabananda-Das.jpg",
-      "cabin": "F-012(Campus-15A)"
-    },
-    "Dr.MahendraKumarGourisaria": {
-      "email": "mkgourisariafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Mahendra-Kumar-Gourisaria.jpg",
-      "cabin": "Faculty Block-101 (Campus-14C)"
-    },
-    "Dr.JaySarraf": {
-      "email": "jay.sarraffcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2018/12/Dr-Jay-Sarraf.jpg",
-      "cabin": "F-226(Campus- 15A)"
-    },
-    "Mr.LalitKumarVashishtha": {
-      "email": "vashishthafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/l-Lalit-Vashishtha.jpg",
-      "cabin": "Examination Hall(Campus-14C)"
-    },
-    "Dr.SantoshKumarSwain": {
-      "email": "sswainfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/santosh-swain.jpg",
-      "cabin": "Faculty Chamber-13(Campus-15B)"
-    },
-    "Mr.SovanKumarSahoo": {
-      "email": "sovan.sahoofcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Sovan-Kumar-Sahoo.jpg",
-      "cabin": "Faculty Block-402 (Campus-14C)"
-    },
-    "Dr.NachiketaTarasia": {
-      "email": "ntarasiafcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Nachiketa-Tarasia-1.jpg",
-      "cabin": "F-202(Campus-15A)"
-    },
-    "Prof.S.S.Singh": {
-      "email": "ssinghfet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Sudhansu-Sekhar-Singh-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Mr.KamaleshKarmakar": {
-      "email": "NA",
-      "profileurl": "https://media.licdn.com/dms/image/C5603AQFBoPMh7238lg/profile-displayphoto-shrink_800_800/0/1601227736995?e=1711584000&v=beta&t=ujpEhAGVkG9wGlzQpzTJmAtYoBMZ-I3BhAOabBOU5Hc",
-      "cabin": "NA"
-    },
-    "Dr.AnjanBandyopadhyay": {
-      "email": "anjan.bandyopadhyayfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Anjan-Bandyopadhyay.jpg",
-      "cabin": "F-222(Campus-15A)"
-    },
-    "Dr.SubhadipPramanik": {
-      "email": "subhadip.pramanikfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/07/subha-Subhadip-Pramanik.jpg",
-      "cabin": "NA"
-    },
-    "Prof.A.N.Ghazali": {
-      "email": "abu.ghazalifet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Abu-Nasar-Ghazali-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Dr.SiddharthSwarupRautaray": {
-      "email": "siddharthfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/sid-siddharth-routaray.jpg",
-      "cabin": "F-213(Campus- 15A)"
-    },
-    "Prof.OmPrakashAcharya": {
-      "email": "omprakash.acharyafet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Susanta-Kumar-Badi-400x400.jpg",
-      "cabin": "NA"
-    },
-    "Prof.B.V.V.S.Kumar": {
-      "email": "bvvs.kumarfet@kiit.ac.in",
-      "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2018/12/Kumar-5-B-V-VS-Kumar-400x501.jpg",
-      "cabin": "NA"
-    },
-    "Dr.SaritaTripathy": {
-      "email": "sarita.tripathyfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Sarita-Tripathy-1.jpg",
-      "cabin": "Faculty Chamber-06(Campus-15B)"
-    },
-    "Mrs.BinduAgarwalla": {
-      "email": "bindu.agarwalfcs@kiit.ac.in",
-      "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Bindu-Agarwal.jpg",
-      "cabin": "Faculty Chamber-09(Campus-15B)"
-    },
-    "NOTICE": {
-      "notice": "",
-      "desc": ""
-    }
+  "Mr.AbinasPanda": {
+    "email": "abinas.pandafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Abinas-Panda.jpg",
+    "cabin": "F-220(Campus- 15A)"
+  },
+  "Dr.MukeshKumar": {
+    "email": "mukesh.kumarfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Mukesh-Kumar.jpg",
+    "cabin": "F-212(Campus- 15A)"
+  },
+  "Prof.M.K.Beuria": {
+    "email": "manoj.beuriafet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/MANOJ-KUMAR-BEURIA-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Dr.AmiyaRanjanPanda": {
+    "email": "amiya.pandafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Dr.-Amiya-Ranjan-Panda-Amiya-Panda.jpg",
+    "cabin": "Faculty Chamber-07(Campus-15B)"
+  },
+  "Mrs.JayantiDansana": {
+    "email": "jayantifcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Jayanti-Dansana.jpg",
+    "cabin": "F-205(Campus-15A)"
+  },
+  "Mr.SohailKhan": {
+    "email": "sohail.khanfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/12/sohail-khan.png",
+    "cabin": "NA"
+  },
+  "Prof.SubodhKumarMohanty": {
+    "email": "subodh.mohantyfel@kiit.ac.in",
+    "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/Subodh-Mohanty-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Mrs.LipikaDewangan": {
+    "email": "lipika.dewanganfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Lipika-Dewangan.jpg",
+    "cabin": "Faculty Block-101 (Campus-14C)"
+  },
+  "Prof.T.Kar": {
+    "email": "tkarfet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/TEJASWINI-KAR-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Mrs.RonaliPadhy": {
+    "email": "ronali.padhyfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Ronali-Padhy.jpg",
+    "cabin": "F-07(Campus-15A)"
+  },
+  "Ms.SrichetaParui": {
+    "email": "sricheta.paruifcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2024/01/Sricheta-Parui.jpg",
+    "cabin": "NA"
+  },
+  "Prof.D.Mukherjee": {
+    "email": "deepmukherjeefet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2018/12/DEEPMUKHERJEE-deep-mukherjee-400x500.jpg",
+    "cabin": "NA"
+  },
+  "Dr.PampaSinha": {
+    "email": "pampa.sinhafel@kiit.ac.in",
+    "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/Pampa-Sinha-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Prof.AkshayaKumarPati": {
+    "email": "akshaya.patifet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2021/01/Akshaya-Kumar-Pati-400x444.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SantoshKumarBaliarsingh": {
+    "email": "santos.baliarsinghfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Santos-Kumar-Baliarsingh.jpg",
+    "cabin": "Faculty Block-301 (Campus-14C)"
+  },
+  "Dr.RajatKumarBehera": {
+    "email": "rajatkumar.beherafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Rajat-Kumar-Behera.jpg",
+    "cabin": "Faculty Block-101 (Campus-14C)"
+  },
+  "Dr.BanchhanidhiDash": {
+    "email": "banchhanidhi.dashfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Banchhanidhi-Dash.jpg",
+    "cabin": "F-117(Campus-15A)"
+  },
+  "Dr.NibedanPanda": {
+    "email": "nibedan.pandafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/10/Nibedan-Panda.jpg",
+    "cabin": "F-209(Campus-15A)"
+  },
+  "Dr.SoumyaRanjanNayak": {
+    "email": "soumyaranjan.nayakfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Soumya-Ranjan-Nayak.jpg",
+    "cabin": "Faculty Block-402 (Campus-14C)"
+  },
+  "Mr.AmiyaKumarDash": {
+    "email": "amiya.dasfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Amiya-Dash.jpg",
+    "cabin": "Faculty Chamber-04(Campus-15B)"
+  },
+  "Dr.BabitaPanda": {
+    "email": "babitapfel@kiit.ac.in",
+    "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/babita-panda-400x460.jpg",
+    "cabin": "NA"
+  },
+  "Mr.RohitKumarTiwari": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "F-208(Campus-15A)"
+  },
+  "Dr.SatyanandaChampatiRai": {
+    "email": "satya.raifcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/08/satyananda.png",
+    "cabin": "NA"
+  },
+  "Dr.PratyusaMukherjee": {
+    "email": "pratyusa.mukherjeefcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2021/01/Pratyusa-Mukherjee.jpg",
+    "cabin": "Faculty Block-102 (Campus-14C)"
+  },
+  "Mr.DeependraSingh": {
+    "email": "deependra.singhfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/07/Deependra-Singh.jpg",
+    "cabin": "NA"
+  },
+  "Dr.NiranjanKumarRay": {
+    "email": "niranjan_rayfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Niranjan-Ray.jpg",
+    "cabin": "Faculty Chamber-01(Campus-15B)"
+  },
+  "Mr.PragmaKar": {
+    "email": "NA",
+    "profileurl": "https://media.licdn.com/dms/image/C5103AQEDjDUyufu01A/profile-displayphoto-shrink_200_200/0/1574656187119?e=2147483647&v=beta&t=Lc01NnPczqJ83dHqe0eteaEZZf44VLFHLiY6TbN9NP0",
+    "cabin": "NA"
+  },
+  "Mr.SankalpNayak": {
+    "email": "sankalp.nayakfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Sankalp-Nayak.jpg",
+    "cabin": "F-103(Campus-15A)"
+  },
+  "Mr.NayanKumarS.Behera": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "F-210(Campus-15A)"
+  },
+  "Mrs.NalinipravaBehera": {
+    "email": "npbeherafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Nalini-Prara-behera.jpg",
+    "cabin": "Faculty Chamber-02(Campus-15B)"
+  },
+  "Dr.SaikatChakraborty": {
+    "email": "saikat.chakrabortyfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/01/Saikat-Chakraborty.jpg",
+    "cabin": "Faculty Block-201 (Campus-14C)"
+  },
+  "Dr.RinkuDattaRakshit": {
+    "email": "rinku.rakshitfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Rinku-Datta-Rakshit.jpg",
+    "cabin": "NA"
+  },
+  "Mr.JhalakHota": {
+    "email": "jhalak.hotafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Jhalak-Hota.jpg",
+    "cabin": "Faculty Block-201 (Campus-14C)"
+  },
+  "Dr.RameshKumarThakur": {
+    "email": "ramesh.thakurfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/10/Ramesh.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SatarupaMohanty": {
+    "email": "satarupafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Satarupa-Mohanty-1.jpg",
+    "cabin": "F-219(Campus-15A)"
+  },
+  "Prof.VimalKuShrivastava": {
+    "email": "vimal.shrivastavafet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2018/12/Dr.-Vimal-Shrivastava-Vimal-Kumar-Shrivastava-400x501.jpg",
+    "cabin": "NA"
+  },
+  "Prof.M.Behera": {
+    "email": "mbeherafet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/MANJUSHA-BEHERA-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Prof.SwagatDas": {
+    "email": "swagat.dasfel@kiit.ac.in",
+    "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/Swagat-Das-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SubhranshuSekharTripathy": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.JayeetaChakraborty": {
+    "email": "jayeeta.chakrabortyfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/07/JayeetaChakraborty.jpg",
+    "cabin": "Faculty Block-102 (Campus-14C)"
+  },
+  "Dr.AmbikaPrasadMishra": {
+    "email": "ambikaprasad.mishrafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/05/Ambikaprasad-mishra.jpg",
+    "cabin": "F-113(Campus-15A)"
+  },
+  "Prof.ParveenMalik": {
+    "email": "parveen.malikfet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Parveen-Malik-1-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Mrs.MeghanaGRaj": {
+    "email": "meghana.rajfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/meghna.jpeg",
+    "cabin": "Faculty Chamber-09(Campus-15B)"
+  },
+  "Dr.PriyabrataMohapatra": {
+    "email": "priyabrata.mohapatrafme@kiit.ac.in",
+    "profileurl": "https://mechanical.kiit.ac.in/wp-content/uploads/2020/08/Priya-e1596702779156.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SubratKumarBarik": {
+    "email": "skbarikfel@kiit.ac.in",
+    "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/sk-barik-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Mr.R.N.RamakantParida": {
+    "email": "rparidafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Ramakanta-Parida.jpg",
+    "cabin": "F-111(Campus-15A)"
+  },
+  "Prof.T.M.Behera": {
+    "email": "truptifet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Trutpi-Mayee-Behera-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Dr.DebachudamaniPrusti": {
+    "email": "debachudamani.prustifcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2024/01/kiit-Debachudamani-Prusti.jpg",
+    "cabin": "NA"
+  },
+  "Dr.HiteshMahapatra": {
+    "email": "hiteshmahapatra.fcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/07/hitesh.jpeg",
+    "cabin": "Faculty Block-104 (Campus-14C)"
+  },
+  "Prof.A.Samui": {
+    "email": "asamuifet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2018/12/20161009_090523-Anupam-Samui-400x500.jpg",
+    "cabin": "NA"
+  },
+  "Prof.P.K.Samanta": {
+    "email": "pravin.samantafet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Pravin-Kumar-Samanta-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Dr.AbhayaKumarSahoo": {
+    "email": "abhaya.sahoofcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/AbhayakumarSahoo.jpg",
+    "cabin": "Faculty Chamber-11(Campus-15B)"
+  },
+  "Dr.MonideepaRoy": {
+    "email": "monideepafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/monideepa-roy.jpg",
+    "cabin": "Faculty Block-101 (Campus-14C)"
+  },
+  "Prof.DeepakKumarRout": {
+    "email": "deepak.routfet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2018/11/Deepak-Kumar-Rout-400x320.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SantwanaSagnika": {
+    "email": "santwana.sagnikafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Santwana-Sagnika-santwana-sagnika.jpg",
+    "cabin": "F-225(Campus- 15A)"
+  },
+  "Mr.AjayAnand": {
+    "email": "ajay.anandfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Ajay-Anan.jpg",
+    "cabin": "F-103(Campus-15A)"
+  },
+  "Dr.AleenaSwetapadma": {
+    "email": "aleena.swetapadmafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2018/08/Aleena-Swetapadma.jpg",
+    "cabin": "F-216(Campus- 15A)"
+  },
+  "Dr.PadarbindaSamal": {
+    "email": "padarbinda.samalfel@kiit.ac.in",
+    "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/Padarbinda-Samal-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Dr.ShubhasriKundu": {
+    "email": "shubhasri.kundufel@kiit.ac.in",
+    "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/Shubhasri-Kundu-400x400.png",
+    "cabin": "NA"
+  },
+  "Mr.SampritiSoor": {
+    "email": "sampriti.soorfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Sampriti-Soor.jpg",
+    "cabin": "Faculty Block-402 (Campus-14C)"
+  },
+  "Mr.SunilKumarGouda": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Prof.WriddhiBhowmick": {
+    "email": "wriddhi.bhowmikfet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/WRIDDHI-BHOWMIK-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Mr.VishalMeena": {
+    "email": "vishal.meenafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/12/Vishal-Meena.jpg",
+    "cabin": "NA"
+  },
+  "Mr.PrasenjitMaiti": {
+    "email": "prasenjit.maitifcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/02/Prasenjit-Maiti.jpg",
+    "cabin": "Faculty Block-104 (Campus-14C)"
+  },
+  "Mr.RabiShaw": {
+    "email": "rabi.shawfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/07/RabiShaw.jpg",
+    "cabin": "Faculty Block-201 (Campus-14C)"
+  },
+  "Dr.MinakhiRout": {
+    "email": "minakhi.routfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/20180318_114601-Minakshi-rout.jpg",
+    "cabin": "Faculty Chamber-05(Campus-15B)"
+  },
+  "Dr.MainakBandyopadhyay": {
+    "email": "mainak.bandyopadhyayfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Mainak-Bandyopathyay.jpg",
+    "cabin": "NA"
+  },
+  "Mr.ARanjith": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "Faculty Block-402 (Campus-14C)"
+  },
+  "Prof.A.Gorai": {
+    "email": "abhik.goraifet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/ABHIK-GORAI-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Dr.KumarSurjeetChaudhury": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.MurariMandal": {
+    "email": "murari.mandalfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/10/murari_blue-Murari-Mandal.jpg",
+    "cabin": "Faculty Block-101 (Campus-14C)"
+  },
+  "Mr.ChandraShekhar": {
+    "email": "chandra.shekharfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/05/chandra-final-chandra-shekhar.jpg",
+    "cabin": "NA"
+  },
+  "Dr.PinakiSankarChatterjee": {
+    "email": "pinakifcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/pinaki-chatterjee.jpg",
+    "cabin": "F-211(Campus-15A)"
+  },
+  "Dr.ArjunKumarPaul": {
+    "email": "apaulfma@kiit.ac.in",
+    "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2020/05/Arjun-Paul.jpg",
+    "cabin": "NA"
+  },
+  "Dr.PrasantKumarPattnaik": {
+    "email": "patnaikprasantfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/20200618_172649-01-scaled.jpeg",
+    "cabin": "F-117(Campus-15A)"
+  },
+  "Dr.JoydebPal": {
+    "email": "joydeb.palfma@kiit.ac.in",
+    "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2020/05/Joydeb-Pal-1.jpg",
+    "cabin": "NA"
+  },
+  "Mr.SaswataRoy": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.NamitaPanda": {
+    "email": "npandafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Namita-Panda.jpg",
+    "cabin": "F-215(Campus- 15A)"
+  },
+  "Dr.PrasantaKu.Mohanty": {
+    "email": "pkmohantyfma@kiit.ac.in",
+    "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2018/10/prasanta-mohanty.jpg",
+    "cabin": "NA"
+  },
+  "Prof.S.K.Mohapatra": {
+    "email": "sushanta.mohapatrafet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2018/04/sk-400x512.jpg",
+    "cabin": "NA"
+  },
+  "Dr.ParthaSarathiPaul": {
+    "email": "parthasarathi.paulfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/02/Partha-Sarathi-Paul.jpg",
+    "cabin": "Faculty Block-101 (Campus-14C)"
+  },
+  "Dr.AmlanaPanda": {
+    "email": "amlana.pandafme@kiit.ac.in",
+    "profileurl": "https://mechanical.kiit.ac.in/wp-content/uploads/2019/02/amlanpanda-kiit-400x512.jpg",
+    "cabin": "NA"
+  },
+  "Dr.AmulyaRatnaSwain": {
+    "email": "amulyafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Amulya-Ratna-Swain-amulya-swain.jpg",
+    "cabin": "Dean Room-2(Campus-14C)"
+  },
+  "Dr.SubarnaBhattacharya": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.JayantaMondal": {
+    "email": "jayanta.mondalfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/09/Jayanta-Mondal.jpg",
+    "cabin": "NA"
+  },
+  "Prof.BikashKumarBehera": {
+    "email": "bikash.beherafet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Bikash-Kumar-Behera-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Mr.DebashisHati": {
+    "email": "dhatifcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Debashis-Hati.jpg",
+    "cabin": "Faculty Block-101 (Campus-14C)"
+  },
+  "Dr.SarbeswarMohanty": {
+    "email": "smohantyfhu@kiit.ac.in",
+    "profileurl": "https://ksoh.kiit.ac.in/wp-content/uploads/2019/03/Sarbeswar-Mohanty.jpg",
+    "cabin": "NA"
+  },
+  "Dr.HrushikeshaMohanty": {
+    "email": "NA",
+    "profileurl": "https://old.kiit.ac.in/about/Professor-Hrushikesha-Mohanty-vice-chancellor-kiit.png",
+    "cabin": "NA"
+  },
+  "Prof.NitenKumarPanda": {
+    "email": "NA",
+    "profileurl": "https://i1.rgstatic.net/ii/profile.image/999002988363779-1615192281739_Q512/Niten-Panda.jpg",
+    "cabin": "NA"
+  },
+  "Dr.AsifUddinKhan": {
+    "email": "asif.khanfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Asif-Uddin-Khan.jpg",
+    "cabin": "Faculty Block-402 (Campus-14C)"
+  },
+  "Prof.GanarajP.S.": {
+    "email": "ganaraj.psfet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Ganaraj-P-S-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Dr.HrudayaKumarTripathy": {
+    "email": "hktripathyfcs@kiit.ac.in",
+    "profileurl": "",
+    "cabin": "Faculty Chamber-03(Campus-15B)"
+  },
+  "Mr.N.BirajaIsac": {
+    "email": "nbiraja.isacfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/biraja-N-Biraja-Isac.jpg",
+    "cabin": "F-117(Campus-15A)"
+  },
+  "Dr.DayalKumarBehera": {
+    "email": "dayal.beherafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Dayal-Kumar-Behera.jpg",
+    "cabin": "Faculty Block-402 (Campus-14C)"
+  },
+  "Prof.SatishKumarGannamaneni": {
+    "email": "gskfet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/SATISH-KUMAR-GANNAMANENI-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Prof.SushreeS.Panda": {
+    "email": "NA",
+    "profileurl": "https://i1.rgstatic.net/ii/profile.image/11431281183888331-1693106209700_Q128/Sushree-Panda-2.jpg",
+    "cabin": "NA"
+  },
+  "Mr.SujoyDatta": {
+    "email": "sdattafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/sujoy_datta-Sujoy-Datta.jpg",
+    "cabin": "Examination Hall(Campus-14C)"
+  },
+  "Dr.SriparnaRoyGhatak": {
+    "email": "sghatakfel@kiit.ac.in",
+    "profileurl": "https://electrical.kiit.ac.in/wp-content/uploads/2018/07/Sriparna-Ghatak-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Prof.NaziaT.Imran": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Prof.S.Mishra": {
+    "email": "subhasree.mishrafet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Subhashree-Mishra-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SumanSarkar": {
+    "email": "suman.sarkarfma@kiit.ac.in",
+    "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2023/12/Suman.jpg",
+    "cabin": "NA"
+  },
+  "Dr.AjayaKumarParida": {
+    "email": "ajaya.paridafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Ajaya-Kumar-Parida.jpg",
+    "cabin": "F-227(Campus- 15A)"
+  },
+  "Dr.ManasRanjanLenka": {
+    "email": "manaslenkafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/prasant-patnaik.jpg",
+    "cabin": "Faculty Block-101 (Campus-14C)"
+  },
+  "Dr.SrikantaBehera": {
+    "email": "srikanta.beherafma@kiit.ac.in",
+    "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2023/12/Srikanta.jpg",
+    "cabin": "NA"
+  },
+  "Dr.LaxmipriyaNayak": {
+    "email": "lnayakfma@kiit.ac.in",
+    "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2018/10/laxmi.jpg",
+    "cabin": "NA"
+  },
+  "Dr.ArunKumarGupta": {
+    "email": "arun.guptafma@kiit.ac.in",
+    "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2018/10/gupta.jpg",
+    "cabin": "NA"
+  },
+  "Prof.P.Dutta": {
+    "email": "pduttafet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Pradipta-Dutta-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Dr.KumarDevadutta": {
+    "email": "kdevduttafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2021/07/Kumar-Devdutta.jpg",
+    "cabin": "F-112(Campus-15A)"
+  },
+  "Prof.S.K.Badi": {
+    "email": "skbadifet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Susanta-Kumar-Badii-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Dr.ManasRanjanMohapatra": {
+    "email": "manas.mohapatrafma@kiit.ac.in",
+    "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2022/05/manas.jpg",
+    "cabin": "NA"
+  },
+  "Mr.JyotiprakashMishra": {
+    "email": "jyotiprakash.mishrafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2021/01/Jyotiprakash-Mishra.jpg",
+    "cabin": "F-110(Campus-15A)"
+  },
+  "Mr.ArupSarkar": {
+    "email": "arup.sarkarfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Arup-Sarkar.jpg",
+    "cabin": "Faculty Chamber-04(Campus-15B)"
+  },
+  "Dr.MitaliRoutaray": {
+    "email": "mitali.routarayfma@kiit.ac.in",
+    "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2018/10/Mitali-Routaray-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Ms.MandakiniPriyadarshaniBehera": {
+    "email": "mandakini.beherafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/10/Mandakini.jpg",
+    "cabin": "Faculty Block-402 (Campus-14C)"
+  },
+  "Dr.RaghunathDey": {
+    "email": "raghunath.deyfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Raghunath-Dey.jpg",
+    "cabin": "Faculty Block-402 (Campus-14C)"
+  },
+  "Prof.RubyMishra": {
+    "email": "rubymishrafme@kiit.ac.in",
+    "profileurl": "https://mechanical.kiit.ac.in/wp-content/uploads/2020/01/Ruby-Mishra-1.jpg",
+    "cabin": "NA"
+  },
+  "Prof.S.Padhy": {
+    "email": "srinibas.padhyfet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Srinibasa-Padhy-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Dr.DebdulalGhosh": {
+    "email": "debdulal.ghoshfma@kiit.ac.in",
+    "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2023/12/Debdulal.jpg",
+    "cabin": "NA"
+  },
+  "Dr.KalyaniMohanta": {
+    "email": "kalyani.mohantafme@kiit.ac.in",
+    "profileurl": "https://mechanical.kiit.ac.in/wp-content/uploads/2021/07/Photo_Kalyani-Mohanta.jpg",
+    "cabin": "NA"
+  },
+  "Dr.KartikeswarMahalik": {
+    "email": "kartikeswar.mahalikfma@kiit.ac.in",
+    "profileurl": "https://ksas.kiit.ac.in/wp-content/uploads/2023/12/Kartikeswar.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SpandanGuha": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Mr.GopendraVikramSingh": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.DiptiDash": {
+    "email": "dipti.dashfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Dipti-Dash.jpg",
+    "cabin": "NA"
+  },
+  "Prof.K.B.Ray": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.SudeshnaDattaChaudhuri": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Ms.MamitaDash": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Ms.ChandaniKumari": {
+    "email": "chandani.kumarifcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Chandani-Kumari.jpg",
+    "cabin": "NA"
+  },
+  "Ms.SaritaMishra": {
+    "email": "sarita.mishrafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Sarita-Mishra.jpg",
+    "cabin": "NA"
+  },
+  "Dr.BhabaniShankarPrasadMishra": {
+    "email": "bsmishrafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/05/BSP_profile-photo.jpg",
+    "cabin": "NA"
+  },
+  "Dr.VishalPradhan": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.AvinashChaudhary": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.AlivaraniMohapatra": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.SuvasisNayak": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.ArghyaKundu": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.AlokKumarJagadev": {
+    "email": "alok.jagadevfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Alok-Kumar-Jagadev.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SureshChandraSatapathy": {
+    "email": "suresh.satapathyfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Suresh-Chandra-Satapathy.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SuvenduBarik": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Ms.IpsitaPaul": {
+    "email": "ipsita.paulfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Ipsita-Paul.jpg",
+    "cabin": "NA"
+  },
+  "Mr.VijayKumarMeena": {
+    "email": "vijay.meenafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/10/Vijay.jpg",
+    "cabin": "NA"
+  },
+  "Dr.MadhusudanBera": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.AjayKumarJena": {
+    "email": "ajay.jenafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Ajay-Kumar-Jena.jpg",
+    "cabin": "NA"
+  },
+  "Mr.GananathBhuyan": {
+    "email": "gananatha.bhuyanfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Gananatha-Bhuyan.jpg",
+    "cabin": "NA"
+  },
+  "Dr.UtkalKeshariDutta": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.ManoranjanSahoo": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Prof.KumarBiswal": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.SourajitBehera": {
+    "email": "sourajit.beherafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/05/Sourajit-Behera.jpeg",
+    "cabin": "NA"
+  },
+  "Prof.S.Ramavath": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.SamareshMishra": {
+    "email": "smishrafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2018/08/Samaresh-Mishra-10-2-2021.jpg",
+    "cabin": "NA"
+  },
+  "Dr.HimansuDas": {
+    "email": "himanshufcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2018/08/Himansu.jpg",
+    "cabin": "NA"
+  },
+  "Mr.TanikSaikh": {
+    "email": "tanik.saikhfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Tanik-Saikh.jpg",
+    "cabin": "NA"
+  },
+  "Dr.DebanjanPathak": {
+    "email": "debanjan.pathakfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Debanjan-Pathak.jpg",
+    "cabin": "NA"
+  },
+  "Dr.AnandaMeher": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.SuchismitaDas": {
+    "email": "suchismita.dasfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Suchismita-Das-1.jpg",
+    "cabin": "NA"
+  },
+  "Dr.ArupAbhinnaAcharya": {
+    "email": "aacharyafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Arup-Acharya.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SantoshKumarPani": {
+    "email": "spanifcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Santosh-Pani.jpg",
+    "cabin": "NA"
+  },
+  "Dr.M.M.Acharya": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.JunaliJasmineJena": {
+    "email": "junali.jenafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/junali.jpg",
+    "cabin": "NA"
+  },
+  "Prof.P.Biswal": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.AbhijitSutradhar": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Mr.SujoyMadhabRoy": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.ManojKumarMishra": {
+    "email": "manojfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Manoj-Kumar-Mishra-1.jpg",
+    "cabin": "NA"
+  },
+  "Dr.KrishnanduHazra": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.TanmoyMaitra": {
+    "email": "tanmoy.maitrafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2018/08/Tanmoy-Maitra-FCE.jpg",
+    "cabin": "NA"
+  },
+  "Dr.BiswajitSahoo": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.SushrutaMishra": {
+    "email": "sushruta.mishrafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Sushruta-Mishra.jpg",
+    "cabin": "NA"
+  },
+  "Dr.ShantaChakrabarty": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Mr.HarishKumarPatnaik": {
+    "email": "hpatnaikfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Harish-Kumar-Patnaik.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SrikumarAcharya": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Ms.BenazirNeha": {
+    "email": "benazir.nehafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/10/benazir1-Benazir-Neha.jpeg",
+    "cabin": "NA"
+  },
+  "Dr.SudiptaKumarGhosh": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.AkshayaKumarPanda": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.SaurabhBilgaiyan": {
+    "email": "saurabh.bilgaiyanfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/SAURABH-BILGAIYAN-saurabh-bilgaiyan.jpg",
+    "cabin": "NA"
+  },
+  "Dr.ArijitPatra": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Prof.SunilKr.Mishra": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.BasantaKumarRana": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Ms.KrutikaVerma": {
+    "email": "krutika.vermafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Krutika-Verma.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SaurabhJha": {
+    "email": "saurabh.jhafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Saurabh-Jha.jpg",
+    "cabin": "NA"
+  },
+  "Dr.ChittaranjanPradhan": {
+    "email": "chittaranjanfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2018/08/Chittaranjan-Pradhan.jpg",
+    "cabin": "NA"
+  },
+  "Dr.AnanyaMitra": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.BanishreeMisra": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Prof.Shruti": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.ArpitaGoswami": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.SanjayaKumarPanda": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Mr.BijoyDas": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Mr.PradeepKumarParhi": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Mr.RakeshKumarRai": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.MohitRanjanPanda": {
+    "email": "mohit.pandafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/09/Mohit-Ranjan-Panda.jpg",
+    "cabin": "NA"
+  },
+  "Mr.PradeepKandula": {
+    "email": "pkandulafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/pradeep-kandula.jpg",
+    "cabin": "NA"
+  },
+  "Prof.AnilKumarBehera": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.VIkasHassija": {
+    "email": "vikas.hassijafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/vikas-hassija.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SmrutirekhaMohanty": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Prof.SwatiSwayamsiddha": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.AmaleshKumarManna": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Prof.J.R.Panda": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.PradeepKumarMishra": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.MainakBiswas": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.AshishSingh": {
+    "email": "ashish.singhfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Ashish-Singh.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SubhasisDash": {
+    "email": "sdasfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Subhashish-Das-1.jpg",
+    "cabin": "NA"
+  },
+  "Prof.A.Bakshi": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.SwayamBMishra": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.JagannathSingh": {
+    "email": "jagannath.singhfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Jagannath-Singh.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SebaMohanty": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Prof.PramodKumarDas": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.ManasRanjanNayak": {
+    "email": "manas.nayakfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/09/Manas-Ranjan-Nayak-1.jpg",
+    "cabin": "NA"
+  },
+  "Mr.SouravKumarGiri": {
+    "email": "sourav.girifcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/10/Sourav.jpg",
+    "cabin": "NA"
+  },
+  "Dr.LeenaDas": {
+    "email": "ldasfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Leena-Das-2.jpg",
+    "cabin": "NA"
+  },
+  "Dr.NibeditaAdhikary": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Mr.AnilKumarSwain": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.BapujiSahoo": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Dr.RanjeetaPatel": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Ms.SwagatikaSahoo": {
+    "email": "swagatika.sahoofcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Swagatika-Sahoo.jpg",
+    "cabin": "NA"
+  },
+  "Dr.RajdeepChatterjee": {
+    "email": "rajdeepfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Rajdeep-Chatterjee-Rajdeep-Chatterjee.jpg",
+    "cabin": "NA"
+  },
+  "Dr.AnujaKumarAcharya": {
+    "email": "anujafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/08/Anuja-Acharya.jpeg",
+    "cabin": "NA"
+  },
+  "Mr.AbhishekRaj": {
+    "email": "abhishek.rajfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/08/abhisek-raj.jpeg",
+    "cabin": "NA"
+  },
+  "Dr.PradeepKumarMallick": {
+    "email": "pradeep.mallickfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Pradeep-Kumar-Mallick.jpg",
+    "cabin": "NA"
+  },
+  "Mr.KunalAnand": {
+    "email": "kunal.anandfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Kunal-Anand-Kunal-Anand-1.jpg",
+    "cabin": "NA"
+  },
+  "Prof.RachitaPanda": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Mrs.KrishnaChakravarty": {
+    "email": "krishna.chakravartyfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Krishna-Chakravarty.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SoumyaRanjanMishra": {
+    "email": "soumyaranjan.mishrafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/07/SoumyaRanjan.jpg",
+    "cabin": "Faculty Block-104 (Campus-14C)"
+  },
+  "Dr.SuneetaMohanty": {
+    "email": "smohantyfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Suneeta-Mohanty.jpg",
+    "cabin": "F-08(Campus-15A)"
+  },
+  "Dr.JasaswiPrasadMohanty": {
+    "email": "jasaswi.mohantyfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Jasaswi-Prasad-Mohanty.jpg",
+    "cabin": "NA"
+  },
+  "Dr.GangaBishnuMund": {
+    "email": "mund@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/gbmund-GB-Mund.jpeg",
+    "cabin": "F-114(Campus-15A)"
+  },
+  "Ms.ShilpaDas": {
+    "email": "shilpa.dasfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/07/ShilpaDas.jpg",
+    "cabin": "Faculty Block-102 (Campus-14C)"
+  },
+  "Mr.AjitKumarPasayat": {
+    "email": "ajit.pasayatfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Ajit-Kumar-Pasayat.jpg",
+    "cabin": "NA"
+  },
+  "Ms.AradhanaBehura": {
+    "email": "aradhana.behurafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/07/Aradhana-Behura.jpg",
+    "cabin": "NA"
+  },
+  "Dr.RoshniPradhan": {
+    "email": "roshni.pradhanfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2018/08/Roshni-Pradhan.jpg",
+    "cabin": "NA"
+  },
+  "Mr.ManasRanjanBiswal": {
+    "email": "manas.biswalfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Manas-Ranjan-Biswal.jpg",
+    "cabin": "NA"
+  },
+  "Dr.ParthaPratimSarangi": {
+    "email": "pp.sarangifcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2021/01/Partha-pratim-Sarangi.jpg",
+    "cabin": "NA"
+  },
+  "Dr.JaydeepDas": {
+    "email": "NA",
+    "profileurl": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1705865919~exp=1705866519~hmac=68f2ed612bf1a995035c9537355f0871b7ade54051309a8590cd4d7e2e7fe5b1",
+    "cabin": "NA"
+  },
+  "Mr.PrabhuPrasadDev": {
+    "email": "prabhu.devfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Prabhu-Prasad-Dev-1.jpg",
+    "cabin": "NA"
+  },
+  "Dr.PrachetBhuyan": {
+    "email": "pbhuyanfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Prachet-Bhuyan.jpg",
+    "cabin": "NA"
+  },
+  "Ms.PriyankaRoy": {
+    "email": "priyanka.royfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2021/07/Priyanka-Roy.jpg",
+    "cabin": "NA"
+  },
+  "Dr.AbhishekRay": {
+    "email": "arayfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Abhishek-Ray-Passport-Photo.jpg",
+    "cabin": "NA"
+  },
+  "Dr.BhaswatiSahoo": {
+    "email": "bhaswati.sahoofcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/IMG-20180420-WA0002-Bhaswati-Sahoo.jpg",
+    "cabin": "NA"
+  },
+  "Mrs.LipikaMohanty": {
+    "email": "lipika.mohantyfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Lipika-Mohanty-scaled.jpg",
+    "cabin": "Faculty Chamber-08(Campus-15B)"
+  },
+  "Mrs.SubhashreeDarshana": {
+    "email": "subhashree.darshanafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/GAT-Subhashree-Darshana.jpg",
+    "cabin": "F-102(Campus-15A)"
+  },
+  "Dr.ManjushaPandey": {
+    "email": "manjushafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/manjusha.jpg",
+    "cabin": "Faculty Block-101 (Campus-14C)"
+  },
+  "Dr.SuchismitaRout": {
+    "email": "suchismita.routfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2022/10/SR_photo-Dr-Suchismita-Rout.png",
+    "cabin": "Faculty Block-101 (Campus-14C)"
+  },
+  "Dr.MadhabanandaDas": {
+    "email": "mndas_prof@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/Madhabananda-Das.jpg",
+    "cabin": "F-012(Campus-15A)"
+  },
+  "Dr.MahendraKumarGourisaria": {
+    "email": "mkgourisariafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Mahendra-Kumar-Gourisaria.jpg",
+    "cabin": "Faculty Block-101 (Campus-14C)"
+  },
+  "Dr.JaySarraf": {
+    "email": "jay.sarraffcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2018/12/Dr-Jay-Sarraf.jpg",
+    "cabin": "F-226(Campus- 15A)"
+  },
+  "Mr.LalitKumarVashishtha": {
+    "email": "vashishthafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/l-Lalit-Vashishtha.jpg",
+    "cabin": "Examination Hall(Campus-14C)"
+  },
+  "Dr.SantoshKumarSwain": {
+    "email": "sswainfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2020/06/santosh-swain.jpg",
+    "cabin": "Faculty Chamber-13(Campus-15B)"
+  },
+  "Mr.SovanKumarSahoo": {
+    "email": "sovan.sahoofcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Sovan-Kumar-Sahoo.jpg",
+    "cabin": "Faculty Block-402 (Campus-14C)"
+  },
+  "Dr.NachiketaTarasia": {
+    "email": "ntarasiafcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Nachiketa-Tarasia-1.jpg",
+    "cabin": "F-202(Campus-15A)"
+  },
+  "Prof.S.S.Singh": {
+    "email": "ssinghfet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Sudhansu-Sekhar-Singh-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Mr.KamaleshKarmakar": {
+    "email": "NA",
+    "profileurl": "https://media.licdn.com/dms/image/C5603AQFBoPMh7238lg/profile-displayphoto-shrink_800_800/0/1601227736995?e=1711584000&v=beta&t=ujpEhAGVkG9wGlzQpzTJmAtYoBMZ-I3BhAOabBOU5Hc",
+    "cabin": "NA"
+  },
+  "Dr.AnjanBandyopadhyay": {
+    "email": "anjan.bandyopadhyayfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/04/Anjan-Bandyopadhyay.jpg",
+    "cabin": "F-222(Campus-15A)"
+  },
+  "Dr.SubhadipPramanik": {
+    "email": "subhadip.pramanikfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2023/07/subha-Subhadip-Pramanik.jpg",
+    "cabin": "NA"
+  },
+  "Prof.A.N.Ghazali": {
+    "email": "abu.ghazalifet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Abu-Nasar-Ghazali-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SiddharthSwarupRautaray": {
+    "email": "siddharthfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/sid-siddharth-routaray.jpg",
+    "cabin": "F-213(Campus- 15A)"
+  },
+  "Prof.OmPrakashAcharya": {
+    "email": "omprakash.acharyafet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2019/02/Susanta-Kumar-Badi-400x400.jpg",
+    "cabin": "NA"
+  },
+  "Prof.B.V.V.S.Kumar": {
+    "email": "bvvs.kumarfet@kiit.ac.in",
+    "profileurl": "https://electronics.kiit.ac.in/wp-content/uploads/2018/12/Kumar-5-B-V-VS-Kumar-400x501.jpg",
+    "cabin": "NA"
+  },
+  "Dr.SaritaTripathy": {
+    "email": "sarita.tripathyfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Sarita-Tripathy-1.jpg",
+    "cabin": "Faculty Chamber-06(Campus-15B)"
+  },
+  "Mrs.BinduAgarwalla": {
+    "email": "bindu.agarwalfcs@kiit.ac.in",
+    "profileurl": "https://cse.kiit.ac.in/wp-content/uploads/2019/01/Bindu-Agarwal.jpg",
+    "cabin": "Faculty Chamber-09(Campus-15B)"
+  },
+  "NOTICE": {
+    "notice": "",
+    "desc": ""
   }
+}
