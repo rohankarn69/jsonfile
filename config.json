@@ -1,0 +1,74 @@
+{
+    "fees": {
+        "delivery_fee": {
+            "fee": 80,
+            "min_price": 250,
+            "max_price": 0
+        },
+        "small_fee": {
+            "fee": 20,
+            "min_price": 100,
+            "max_price": 0
+        }
+    },
+    "delivery_schedule": {
+        "slots": [
+            {
+                "id": 1,
+                "label": "7 AM - 9 AM"
+            },
+            {
+                "id": 2,
+                "label": "11:30 AM - 2:00 PM"
+            },
+            {
+                "id": 3,
+                "label": "4:00 PM - 6:00 PM"
+            },
+            {
+                "id": 4,
+                "label": "7:00 PM - 9:30 PM"
+            }
+        ],
+        "order_before": 90,
+        "max_delivery_day": 7
+    },
+    "offers": {
+        "offer_1": {
+            "offer_image_url": "https://www.shutterstock.com/image-vector/super-sale-promotional-banner-promo-600nw-2570295095.jpg",
+            "offer_type": "banner",
+            "offer_id": ""
+        },
+        "offer_2": {
+            "offer_image_url": "https://t3.ftcdn.net/jpg/04/65/46/52/360_F_465465254_1pN9MGrA831idD6zIBL7q8rnZZpUCQTy.jpg",
+            "offer_type": "categories",
+            "offer_id": "223"
+        },
+        "offer_3": {
+            "offer_image_url": "https://www.shutterstock.com/image-vector/exclusive-offer-banner-sign-announcement-260nw-2653004117.jpg",
+            "offer_type": "brand",
+            "offer_id": "37"
+        }
+    },
+    "flash_offer": {
+        "offer_image_url": "",
+        "offer_type": "",
+        "offer_id": "",
+        "is_active": false
+    },
+    "festive_information": {
+        "title": "Valentine's Day",
+        "description": "For your loved one",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3VLgMG3XtPBWVbp6-ZauOdsYj-vPXro_rQw&s",
+        "is_active": true,
+        "start_date": "2026-01-22",
+        "end_date": "2026-01-29",
+        "theme": {
+            "primary": "#E91E63",
+            "gradient_dark": "#AD1457",
+            "text_on_primary": "#FFFFFF",
+            "text_secondary": "#757575"
+        }
+    },
+    "version": "1"
+}
