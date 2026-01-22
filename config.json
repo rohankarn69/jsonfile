@@ -66,7 +66,7 @@
         "end_date": "2026-01-29",
         "theme": {
             "primary": "#FFFACD",
-            "text_on_primary": "#FFFFFF",
+            "text_on_primary": "#fc7d08",
             "text_secondary": "#FFFACD"
         }
     },
