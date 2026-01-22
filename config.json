@@ -5,7 +5,7 @@
             "min_price": 250,
             "max_price": 0
         },
-        "small_fee": {
+        "small_cart_fee": {
             "fee": 20,
             "min_price": 100,
             "max_price": 0
