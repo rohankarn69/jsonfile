@@ -59,8 +59,8 @@
     "festive_information": {
         "title": "Valentine's Day",
         "description": "For your loved one",
-        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3VLgMG3XtPBWVbp6-ZauOdsYj-vPXro_rQw&s",
-        "is_active": false,
+        "image_url": "https://drive.google.com/file/d/1q-xwHvUSC7tQ3BysEPo7CrlRXj3n5zqD/view?usp=sharing",
+        "is_active": true,
         "start_date": "2026-01-22",
         "end_date": "2026-01-29",
         "theme": {
@@ -70,5 +70,5 @@
             "text_secondary": "#757575"
         }
     },
-    "version": "2"
+    "version": "3"
 }
