@@ -57,18 +57,18 @@
         "is_active": false
     },
     "festive_information": {
-        "title": "Valentine's Day",
-        "description": "For your loved one",
-        "image_url": "https://raw.githubusercontent.com/rohankarn69/jsonfile/refs/heads/main/Happy%20Valentine%E2%80%99s%20Day.gif",
+        "title": "Vasant Panchami",
+        "description": "Vasant Panchami Special",
+        "image_url": "https://github.com/rohankarn69/jsonfile/blob/main/Orange%20and%20Yellow%20Gradient%20Illustrated%20Vasant%20Panchami%20Video.gif?raw=true",
         
         "is_active": true,
         "start_date": "2026-01-22",
         "end_date": "2026-01-29",
         "theme": {
-            "primary": "#A6164D",
+            "primary": "#FFFACD",
             "text_on_primary": "#FFFFFF",
-            "text_secondary": "#F54927"
+            "text_secondary": "#FFFACD"
         }
     },
-    "version": "11"
+    "version": "12"
 }
