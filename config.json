@@ -64,10 +64,10 @@
         "start_date": "2026-01-22",
         "end_date": "2026-01-29",
         "theme": {
-            "primary": "#16A642",
+            "primary": "#A6164D",
             "text_on_primary": "#FFFFFF",
             "text_secondary": "#F54927"
         }
     },
-    "version": "6"
+    "version": "7"
 }
