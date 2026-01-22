@@ -60,6 +60,7 @@
         "title": "Valentine's Day",
         "description": "For your loved one",
         "image_url": "https://raw.githubusercontent.com/rohankarn69/jsonfile/refs/heads/main/Happy%20Valentine%E2%80%99s%20Day.gif",
+        "background_image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYupBTA0ikiMqBsKYm8rPQG5JKWQG_Xrf4uQ&s",
         "is_active": true,
         "start_date": "2026-01-22",
         "end_date": "2026-01-29",
