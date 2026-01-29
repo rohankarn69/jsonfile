@@ -59,11 +59,16 @@
     "festive_information": {
         "title": "Vasant Panchami Celebration",
         "description": "Vasant Panchami Special",
-        "image_url": "https://github.com/rohankarn69/jsonfile/blob/main/Orange%20and%20Yellow%20Gradient%20Illustrated%20Vasant%20Panchami%20Video%20(2).gif?raw=true",
+        "images": [
+          "https://github.com/rohankarn69/jsonfile/blob/main/Orange%20and%20Yellow%20Gradient%20Illustrated%20Vasant%20Panchami%20Video%20(2).gif?raw=true",
+          "https://i.ibb.co/wFZ3SCL4/Untitled-design-1.png",
+          "https://i.ibb.co/Y4RV8L6V/pppp.png"
+          
+        ],
         
         "is_active": true,
-        "start_date": "2026-01-22",
-        "end_date": "2026-01-29",
+        "start_date": "2026-01-28",
+        "end_date": "2026-02-29",
         "theme": {
             "primary": "#FFFACD",
             "text_on_primary": "#fc7d08",
