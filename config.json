@@ -66,7 +66,7 @@
           
         ],
         
-        "is_active": true,
+        "is_active": false,
         "start_date": "2026-01-28",
         "end_date": "2026-02-29",
         "theme": {
