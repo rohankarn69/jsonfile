@@ -51,10 +51,10 @@
         }
     },
     "flash_offer": {
-        "offer_image_url": "",
-        "offer_type": "",
-        "offer_id": "",
-        "is_active": false
+        "offer_image_url": "https://media.istockphoto.com/id/1403379187/vector/flash-sale-banner-template-design-for-web-or-social-media.jpg?s=612x612&w=0&k=20&c=EDK6aIaxNukSePSFYo4-SCa6zu9bG73-gSk8lRzQ_98=",
+        "offer_type": "flash",
+        "offer_id": "1",
+        "is_active": true
     },
     "festive_information": {
         "title": "Vasant Panchami Celebration",
@@ -75,5 +75,5 @@
             "text_secondary": "#FFFACD"
         }
     },
-    "version": "11"
+    "version": "12"
 }
