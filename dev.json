@@ -13,7 +13,8 @@
 "🔔 Firebase push notification support",
 "🧹 Removed unnecessary icons for cleaner UI",
 "🛒 Fixed product crash issue on categories page",
-"📌 Location service improvements and bug fixes"
+"📌 Location service improvements and bug fixes",
+            "Login screen buttons fixed"
         ],
         "download_url": "https://play.google.com/store/apps/details?id=com.goketgroceries.app"
     },
