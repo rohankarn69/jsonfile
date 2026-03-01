@@ -1,0 +1,20 @@
+{
+    "latest_build": {
+        "version": "1.2.0",
+        "build_number": 15,
+        "release_date": "2026-03-01",
+        "is_force_update": false,
+        "changelog": [
+            "🔍 New search endpoint with faster results",
+            "🧾 Invoice sharing via any app",
+            "❌ Order cancellation confirmation screen",
+            "📍 Dynamic city detection in subcategories",
+            "🔔 Firebase push notification support"
+        ],
+        "download_url": "https://play.google.com/store/apps/details?id=com.goketgroceries.app"
+    },
+    "feedback_form_url": "https://forms.gle/6hb4xtx6VJ2NCwTm8",
+    "support_email": "support@goket.com.np",
+    "maintenance_mode": false,
+    "announcement": null
+}
