@@ -1,20 +1,22 @@
 {
     "latest_build": {
-        "version": "1.1.0",
-        "build_number": 2,
-        "release_date": "2026-03-01",
+        "version": "1.2.0",
+        "build_number": 5,
+        "release_date": "2026-03-11",
         "is_force_update": true,
         "changelog": [
-         "🔍 Added new search endpoint with faster results",
-"🧾 Invoice generation and easy sharing",
-"📍 Address issues fixed for better accuracy",
-"❌ Order cancellation flow fixed",
-"🏙️ Dynamic city detection in subcategories page",
-"🔔 Firebase push notification support",
-"🧹 Removed unnecessary icons for cleaner UI",
-"🛒 Fixed product crash issue on categories page",
-"📌 Location service improvements and bug fixes",
-            "Login screen buttons fixed"
+            "Updated media permission descriptions for Google Play Store compliance",
+            "Refined delivery information to reflect accurate doorstep and flexible options",
+            "Redesigned Home Page for a cleaner, modern, and professional aesthetic",
+            "Introduced premium illustrated avatars to replace the previous emoji system",
+            "Renamed Recommended Products to Just for You for a more personalized experience",
+            "Improved UI consistency by Removing all emojis across the application",
+            "Enhanced product variant display with accurate unit price calculations",
+            "Increased profile avatar size in the app bar for better visibility",
+            "Fixed login screen button layout and alignment issues",
+            "Resolved product navigation bugs from cart and order history pages",
+            "Improved location service reliability and city detection accuracy",
+            "Firebase push notification support and general stability enhancements"
         ],
         "download_url": "https://play.google.com/store/apps/details?id=com.goketgroceries.app"
     },
