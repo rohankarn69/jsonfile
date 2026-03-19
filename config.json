@@ -35,19 +35,15 @@
     },
     "offers": {
         "offer_1": {
-            "offer_image_url": "https://www.shutterstock.com/image-vector/super-sale-promotional-banner-promo-600nw-2570295095.jpg",
-            "offer_type": "banner",
-            "offer_id": ""
-        },
-        "offer_2": {
-            "offer_image_url": "https://t3.ftcdn.net/jpg/04/65/46/52/360_F_465465254_1pN9MGrA831idD6zIBL7q8rnZZpUCQTy.jpg",
+            "offer_image_url": "https://i.ibb.co/DS5CjN3/gpt-image-1-5-high-fidelity-a-remove-the-basket-an.png",
             "offer_type": "categories",
-            "offer_id": "223"
+            "offer_id": "145"
         },
+    
         "offer_3": {
             "offer_image_url": "https://www.shutterstock.com/image-vector/exclusive-offer-banner-sign-announcement-260nw-2653004117.jpg",
             "offer_type": "brand",
-            "offer_id": "37"
+            "offer_id": "171"
         }
     },
     "flash_offer": {
